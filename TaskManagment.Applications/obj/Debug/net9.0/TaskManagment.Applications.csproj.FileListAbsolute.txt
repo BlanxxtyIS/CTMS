@@ -1,0 +1,12 @@
+C:\Users\Zver\Desktop\HomePetProjects\CTMS\TaskManagment.Applications\bin\Debug\net9.0\TaskManagment.Applications.deps.json
+C:\Users\Zver\Desktop\HomePetProjects\CTMS\TaskManagment.Applications\bin\Debug\net9.0\TaskManagment.Applications.dll
+C:\Users\Zver\Desktop\HomePetProjects\CTMS\TaskManagment.Applications\bin\Debug\net9.0\TaskManagment.Applications.pdb
+C:\Users\Zver\Desktop\HomePetProjects\CTMS\TaskManagment.Applications\obj\Debug\net9.0\TaskManagment.Applications.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zver\Desktop\HomePetProjects\CTMS\TaskManagment.Applications\obj\Debug\net9.0\TaskManagment.Applications.AssemblyInfoInputs.cache
+C:\Users\Zver\Desktop\HomePetProjects\CTMS\TaskManagment.Applications\obj\Debug\net9.0\TaskManagment.Applications.AssemblyInfo.cs
+C:\Users\Zver\Desktop\HomePetProjects\CTMS\TaskManagment.Applications\obj\Debug\net9.0\TaskManagment.Applications.csproj.CoreCompileInputs.cache
+C:\Users\Zver\Desktop\HomePetProjects\CTMS\TaskManagment.Applications\obj\Debug\net9.0\TaskManagment.Applications.sourcelink.json
+C:\Users\Zver\Desktop\HomePetProjects\CTMS\TaskManagment.Applications\obj\Debug\net9.0\TaskManagment.Applications.dll
+C:\Users\Zver\Desktop\HomePetProjects\CTMS\TaskManagment.Applications\obj\Debug\net9.0\refint\TaskManagment.Applications.dll
+C:\Users\Zver\Desktop\HomePetProjects\CTMS\TaskManagment.Applications\obj\Debug\net9.0\TaskManagment.Applications.pdb
+C:\Users\Zver\Desktop\HomePetProjects\CTMS\TaskManagment.Applications\obj\Debug\net9.0\ref\TaskManagment.Applications.dll
