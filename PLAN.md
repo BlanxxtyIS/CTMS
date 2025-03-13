@@ -1,9 +1,28 @@
 # Этап 1: Настройка проекта и базовая структура #
 ## Создание решения и проектов: ##
+### Используем *Clean Architecture*  ### 
 - TaskManagement.API
+  - Controllers/
+  - Middleware/
+  - Program.cs   
 - TaskManagement.Core
+  - Models/
+  - Enums/ 
 - TaskManagement.Infrastructure
+  - Data/
+  - Repositories/
+  - Services/
+- TaskManagment.Applications
+  - DTOs/
+  - Iterfaces/
+  - Services/
+  - Exceptions/
+- TaskManagment.Client
+  - Pages/
+  - ViewModels/   
 - TaskManagement.Tests
+  - Unit/
+  - Integration/ 
 ## Настройка PostgreSQL: ## 
 - Установка PostgreSQL
 - Создание базы данных
