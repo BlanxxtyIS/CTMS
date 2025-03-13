@@ -1,6 +1,6 @@
 # CTMS
 *PS. От файла README.md до последней строчки кода было реализовано [Маратом. Х](https://t.me/blanxxty) без использованя ИИ*
-![Mem](https://github.com/BlanxxtyIS/CTMS/blob/main/scale_1200.jpg)
+<img src="https://github.com/BlanxxtyIS/CTMS/blob/main/scale_1200.jpg" width="800">
 ## Corporate Task Management System
 
 Это система управления задачами для компаний, похожая на Jira или Trello, но в традиционном, простом исполнении.  
