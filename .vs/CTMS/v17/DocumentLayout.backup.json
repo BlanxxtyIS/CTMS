@@ -1,7 +1,20 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{275ED01B-EEB3-4979-A1EA-8EC13AB72A29}|TaskManagment.WEB\\TaskManagment.WEB.csproj|c:\\users\\zver\\desktop\\homepetprojects\\ctms\\taskmanagment.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{275ED01B-EEB3-4979-A1EA-8EC13AB72A29}|TaskManagment.WEB\\TaskManagment.WEB.csproj|solutionrelative:taskmanagment.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB0319F0-E7D5-4975-A43D-DD75FFC8E5C2}|TaskManagment.API\\TaskManagment.API.csproj|c:\\users\\zver\\desktop\\homepetprojects\\ctms\\taskmanagment.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FB0319F0-E7D5-4975-A43D-DD75FFC8E5C2}|TaskManagment.API\\TaskManagment.API.csproj|solutionrelative:taskmanagment.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB0319F0-E7D5-4975-A43D-DD75FFC8E5C2}|TaskManagment.API\\TaskManagment.API.csproj|c:\\users\\zver\\desktop\\homepetprojects\\ctms\\taskmanagment.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB0319F0-E7D5-4975-A43D-DD75FFC8E5C2}|TaskManagment.API\\TaskManagment.API.csproj|solutionrelative:taskmanagment.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +22,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\Program.cs",
+              "RelativeDocumentMoniker": "TaskManagment.WEB\\Program.cs",
+              "ToolTip": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\Program.cs",
+              "RelativeToolTip": "TaskManagment.WEB\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T16:02:58.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "TaskManagment.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "TaskManagment.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-13T16:01:04.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.API\\Program.cs",
+              "RelativeDocumentMoniker": "TaskManagment.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.API\\Program.cs",
+              "RelativeToolTip": "TaskManagment.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T16:00:37.842Z",
+              "EditorCaption": ""
             }
           ]
         }
