@@ -14,8 +14,13 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 
+app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapControllers();
+
+app.Map("/hello", () => "Hello, World");
+app.Map("/", () => "Home Page");
+app.Map("/test", () => "Give me the loot");
 
 app.Run();
