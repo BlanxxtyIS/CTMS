@@ -33,3 +33,15 @@ C:\Users\Zver\Desktop\HomePetProjects\CTMS\TaskManagment.API\obj\Debug\net9.0\re
 C:\Users\Zver\Desktop\HomePetProjects\CTMS\TaskManagment.API\obj\Debug\net9.0\TaskManagment.API.pdb
 C:\Users\Zver\Desktop\HomePetProjects\CTMS\TaskManagment.API\obj\Debug\net9.0\TaskManagment.API.genruntimeconfig.cache
 C:\Users\Zver\Desktop\HomePetProjects\CTMS\TaskManagment.API\obj\Debug\net9.0\ref\TaskManagment.API.dll
+C:\Users\Zver\Desktop\HomePetProjects\CTMS\TaskManagment.API\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Zver\Desktop\HomePetProjects\CTMS\TaskManagment.API\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Zver\Desktop\HomePetProjects\CTMS\TaskManagment.API\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Zver\Desktop\HomePetProjects\CTMS\TaskManagment.API\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Zver\Desktop\HomePetProjects\CTMS\TaskManagment.API\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Zver\Desktop\HomePetProjects\CTMS\TaskManagment.API\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Zver\Desktop\HomePetProjects\CTMS\TaskManagment.API\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Zver\Desktop\HomePetProjects\CTMS\TaskManagment.API\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Zver\Desktop\HomePetProjects\CTMS\TaskManagment.API\bin\Debug\net9.0\TaskManagment.Core.dll
+C:\Users\Zver\Desktop\HomePetProjects\CTMS\TaskManagment.API\bin\Debug\net9.0\TaskManagment.Infrastructure.dll
+C:\Users\Zver\Desktop\HomePetProjects\CTMS\TaskManagment.API\bin\Debug\net9.0\TaskManagment.Infrastructure.pdb
+C:\Users\Zver\Desktop\HomePetProjects\CTMS\TaskManagment.API\bin\Debug\net9.0\TaskManagment.Core.pdb
