@@ -83,3 +83,5 @@
 |Git и GitHub    | 8 часов       | 70 %   |
 |HTML            | 10 часов      | 60 %   |
 |Clean Archittecture| 2 часа     | 90 %   |
+|Authentication and Authorization| 2часа |90%|
+|JWT-Tokens | 3 часа | 80 %|
