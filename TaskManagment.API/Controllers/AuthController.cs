@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Identity.Data;
 using Microsoft.AspNetCore.Mvc;
-using TaskManagment.Core.Application.Interfaces;
+using TaskManagment.Core.Interfaces;
 using TaskManagment.Infrastructure.Authentication;
 
 namespace TaskManagment.API.Controllers;

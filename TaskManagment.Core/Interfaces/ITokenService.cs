@@ -1,4 +1,4 @@
-﻿namespace TaskManagment.Core.Application.Interfaces;
+﻿namespace TaskManagment.Core.Interfaces;
 
 public interface ITokenService
 {

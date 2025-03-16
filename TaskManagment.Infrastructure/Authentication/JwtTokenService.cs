@@ -4,7 +4,7 @@ using Microsoft.IdentityModel.Tokens;
 using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using System.Text;
-using TaskManagment.Core.Application.Interfaces;
+using TaskManagment.Core.Interfaces;
 
 namespace TaskManagment.Infrastructure.Authentication;
 
@@ -23,8 +23,8 @@ public class JwtTokenService : ITokenService
         { 
             new Claim(ClaimTypes.Name, username) 
         };
-        //Создаем JWT-токен
 
+        //Создание JWT-токена
         var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(_jwtSettings.SecretKey));
         var credentials = new SigningCredentials
                     (key, SecurityAlgorithms.HmacSha256);
