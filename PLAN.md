@@ -26,6 +26,7 @@
 ## Настройка PostgreSQL: ## 
 - Установка PostgreSQL
 - Создание базы данных
+  -
 - Настройка строки подключения
 - Установка необходимых пакетов NuGet:
 - Entity Framework Core для PostgreSQL
