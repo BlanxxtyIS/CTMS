@@ -2,6 +2,10 @@
 
 namespace TaskManagment.Core.Entities;
 
+/// <summary>
+/// Предоставляет участника проекта с определенной ролью
+/// Связывает пользователя с проектом и определяет роль
+/// </summary>
 public class ProjectMember: BaseEntity
 {
     public Guid UserId { get; set; }

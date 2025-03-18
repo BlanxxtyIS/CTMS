@@ -1,7 +1,12 @@
 ﻿using TaskManagment.Core.Enums;
 namespace TaskManagment.Core.Entities;
 
-public class Tasks : BaseEntity
+
+/// <summary>
+/// Представляет рабочую задачу
+/// Основная единица работы, которая назначается пользователю
+/// </summary>
+public class WorkTask: BaseEntity
 {
     public string Title { get; set; } = string.Empty;
     public string Description { get; set; } = string.Empty;

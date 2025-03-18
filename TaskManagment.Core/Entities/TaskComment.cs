@@ -1,5 +1,10 @@
 ﻿namespace TaskManagment.Core.Entities;
 
+
+/// <summary>
+/// Представляет комментарий к задаче
+/// Используется для обсуждения задач и ведения истории коммуникации
+/// </summary>
 public class TaskComment : BaseEntity
 {
     public string Content { get; set; } = string.Empty;

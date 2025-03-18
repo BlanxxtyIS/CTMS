@@ -1,5 +1,8 @@
 ﻿namespace TaskManagment.Core.Entities;
 
+/// <summary>
+/// Представляет системные роли
+/// </summary>
 public class UserRole: BaseEntity
 {
     public Guid UserId { get; set; }

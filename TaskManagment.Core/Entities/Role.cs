@@ -1,5 +1,9 @@
 ﻿namespace TaskManagment.Core.Entities;
 
+/// <summary>
+/// Предоставляет системную роль пользователя
+/// Определяет глобальные права
+/// </summary>
 public class Role: BaseEntity
 {
     public string Name { get; set; } = string.Empty;
