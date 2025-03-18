@@ -10,6 +10,8 @@ public class UserConfiguration: BaseEntityConfiguration<User>
     {
         base.Configure(builder);
 
+        builder.ToTable("Users");
+
         builder.Property(u => u.Username)
             .IsRequired()
             .HasMaxLength(50); 

@@ -8,8 +8,9 @@ public class RoleConfiguration: BaseEntityConfiguration<Role>
 {
     public override void Configure(EntityTypeBuilder<Role> builder)
     {
-     
         base.Configure(builder);
+
+        builder.ToTable("Roles");
 
         builder.Property(r => r.Name)
             .IsRequired()
@@ -21,7 +22,6 @@ public class RoleConfiguration: BaseEntityConfiguration<Role>
         builder.HasIndex(r => r.Name)
             .IsUnique();
 
-        //Одна роль со
         builder.HasMany(r => r.Roles)
             .WithOne(u => u.Role)
             .HasForeignKey(u => u.RoleId)
