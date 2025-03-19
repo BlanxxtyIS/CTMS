@@ -7,6 +7,6 @@
 public class BaseEntity
 {
     public Guid Id { get; set; }
-    public DateTime CreatedAt { get; set; }
-    public DateTime? UpdatedAt { get; set; }
+    public DateTime CreatedAt { get; set; } = new DateTime(2024, 1, 1, 12, 0, 0);
+    public DateTime? UpdatedAt { get; set; } = new DateTime(2024, 1, 1, 12, 0, 0);
 }

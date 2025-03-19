@@ -29,10 +29,12 @@ public class WorkTaskConfiguration: BaseEntityConfiguration<WorkTask>
             .HasConversion<string>();
 
         builder.Property(wt => wt.Priority)
-            .HasDefaultValue(TaskPriority.Low);
+            .HasDefaultValue(TaskPriority.Low)
+            .HasConversion<string>();
 
         builder.Property(wt => wt.Status)
-            .HasDefaultValue(TaskStatus.Created);
+            .HasDefaultValue(TaskStatusEnum.ToDo)
+            .HasConversion<string>();
 
         builder.Property(wt => wt.ProjectId)
             .IsRequired();

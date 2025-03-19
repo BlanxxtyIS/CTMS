@@ -16,9 +16,6 @@ public class ProjectMemberConfiguration: BaseEntityConfiguration<ProjectMember>
         builder.Property(pm => pm.UserId)
             .IsRequired();
 
-        builder.Property(pm => pm.Project)
-            .IsRequired();
-
         builder.Property(pm => pm.Role)
             .IsRequired()
             .HasConversion<string>();

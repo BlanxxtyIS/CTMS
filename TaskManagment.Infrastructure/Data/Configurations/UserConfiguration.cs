@@ -58,6 +58,6 @@ public class UserConfiguration: BaseEntityConfiguration<User>
         builder.HasMany(u => u.Comments)
             .WithOne(c => c.Author)
             .HasForeignKey(c => c.AuthorId)
-            .OnDelete(DeleteBehavior.Cascade);
+            .OnDelete(DeleteBehavior.SetNull);
     }
 }

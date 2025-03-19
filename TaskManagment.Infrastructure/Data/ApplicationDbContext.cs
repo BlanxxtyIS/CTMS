@@ -1,5 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using TaskManagment.Core.Entities;
+using TaskManagment.Infrastructure.Data.Configurations;
 
 namespace TaskManagment.Infrastructure.Data;
 
@@ -18,8 +19,12 @@ public class ApplicationDbContext: DbContext
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
-        base.OnModelCreating(modelBuilder);
+        modelBuilder.ApplyConfiguration(new UserConfiguration());
+        modelBuilder.ApplyConfiguration(new RoleConfiguration());
+        modelBuilder.ApplyConfiguration(new UserRoleConfigurattion());
+        modelBuilder.ApplyConfiguration(new ProjectsConfiguration());
+        modelBuilder.ApplyConfiguration(new ProjectMemberConfiguration());
+        modelBuilder.ApplyConfiguration(new WorkTaskConfiguration());
+        modelBuilder.ApplyConfiguration(new TaskCommentConfiguration());
     }
-
-
 }

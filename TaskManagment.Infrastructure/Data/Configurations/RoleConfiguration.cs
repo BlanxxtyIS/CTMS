@@ -22,7 +22,7 @@ public class RoleConfiguration: BaseEntityConfiguration<Role>
         builder.HasIndex(r => r.Name)
             .IsUnique();
 
-        builder.HasMany(r => r.Roles)
+        builder.HasMany(r => r.UserRoles)
             .WithOne(u => u.Role)
             .HasForeignKey(u => u.RoleId)
             .OnDelete(DeleteBehavior.Cascade);
@@ -41,22 +41,19 @@ public class RoleConfiguration: BaseEntityConfiguration<Role>
             {
                 Id = adminRoleId,
                 Name = "Administrator",
-                Description = "Полный доступ к системе",
-                CreatedAt = DateTime.UtcNow
+                Description = "Полный доступ к системе"
             },
             new Role
             {
                 Id = managerRoleId,
                 Name = "Manager",
-                Description = "Управляет пользователями и проектами",
-                CreatedAt = DateTime.UtcNow
+                Description = "Управляет пользователями и проектами"
             },
             new Role
             {
                 Id = userRoleId,
                 Name = "User",
-                Description = "Юзер с ограниченными возможностями",
-                CreatedAt = DateTime.UtcNow
+                Description = "Юзер с ограниченными возможностями"
             }
         );
     }

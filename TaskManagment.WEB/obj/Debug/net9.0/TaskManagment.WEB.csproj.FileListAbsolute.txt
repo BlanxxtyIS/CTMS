@@ -199,8 +199,6 @@ C:\Users\Zver\Desktop\HomePetProjects\CTMS\TaskManagment.WEB\bin\Debug\net9.0\ww
 C:\Users\Zver\Desktop\HomePetProjects\CTMS\TaskManagment.WEB\bin\Debug\net9.0\wwwroot\_framework\System.Xml.XmlSerializer.bq97vodilp.wasm
 C:\Users\Zver\Desktop\HomePetProjects\CTMS\TaskManagment.WEB\bin\Debug\net9.0\wwwroot\_framework\System.Xml.XPath.k51e820493.wasm
 C:\Users\Zver\Desktop\HomePetProjects\CTMS\TaskManagment.WEB\bin\Debug\net9.0\wwwroot\_framework\System.Xml.XPath.XDocument.0ke5udk43d.wasm
-C:\Users\Zver\Desktop\HomePetProjects\CTMS\TaskManagment.WEB\bin\Debug\net9.0\wwwroot\_framework\TaskManagment.WEB.gxu1eahssg.pdb
-C:\Users\Zver\Desktop\HomePetProjects\CTMS\TaskManagment.WEB\bin\Debug\net9.0\wwwroot\_framework\TaskManagment.WEB.72zidwl0mw.wasm
 C:\Users\Zver\Desktop\HomePetProjects\CTMS\TaskManagment.WEB\bin\Debug\net9.0\wwwroot\_framework\WindowsBase.377bly7twj.wasm
 C:\Users\Zver\Desktop\HomePetProjects\CTMS\TaskManagment.WEB\bin\Debug\net9.0\wwwroot\_framework\System.ComponentModel.Primitives.ze7l9au5js.wasm.gz
 C:\Users\Zver\Desktop\HomePetProjects\CTMS\TaskManagment.WEB\bin\Debug\net9.0\wwwroot\_framework\System.Threading.Thread.aut7sqgx0j.wasm.gz
@@ -279,7 +277,6 @@ C:\Users\Zver\Desktop\HomePetProjects\CTMS\TaskManagment.WEB\bin\Debug\net9.0\ww
 C:\Users\Zver\Desktop\HomePetProjects\CTMS\TaskManagment.WEB\bin\Debug\net9.0\wwwroot\_framework\System.Security.Cryptography.Primitives.qwfipn2fwe.wasm.gz
 C:\Users\Zver\Desktop\HomePetProjects\CTMS\TaskManagment.WEB\bin\Debug\net9.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.w8ltos2ii6.wasm.gz
 C:\Users\Zver\Desktop\HomePetProjects\CTMS\TaskManagment.WEB\bin\Debug\net9.0\wwwroot\_framework\System.Net.Mail.m2f09g14sa.wasm.gz
-C:\Users\Zver\Desktop\HomePetProjects\CTMS\TaskManagment.WEB\bin\Debug\net9.0\wwwroot\_framework\TaskManagment.WEB.gxu1eahssg.pdb.gz
 C:\Users\Zver\Desktop\HomePetProjects\CTMS\TaskManagment.WEB\bin\Debug\net9.0\wwwroot\_framework\blazor.webassembly.js.gz
 C:\Users\Zver\Desktop\HomePetProjects\CTMS\TaskManagment.WEB\bin\Debug\net9.0\wwwroot\_framework\System.ValueTuple.z344pkn1sy.wasm.gz
 C:\Users\Zver\Desktop\HomePetProjects\CTMS\TaskManagment.WEB\bin\Debug\net9.0\wwwroot\_framework\System.Numerics.Vectors.9lt3d3kbru.wasm.gz
@@ -299,7 +296,6 @@ C:\Users\Zver\Desktop\HomePetProjects\CTMS\TaskManagment.WEB\bin\Debug\net9.0\ww
 C:\Users\Zver\Desktop\HomePetProjects\CTMS\TaskManagment.WEB\bin\Debug\net9.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.wzhxi250cz.wasm.gz
 C:\Users\Zver\Desktop\HomePetProjects\CTMS\TaskManagment.WEB\bin\Debug\net9.0\wwwroot\_framework\System.IO.IsolatedStorage.5n4jbiy5xh.wasm.gz
 C:\Users\Zver\Desktop\HomePetProjects\CTMS\TaskManagment.WEB\bin\Debug\net9.0\wwwroot\_framework\Microsoft.Extensions.Configuration.ic45gpxjv4.wasm.gz
-C:\Users\Zver\Desktop\HomePetProjects\CTMS\TaskManagment.WEB\bin\Debug\net9.0\wwwroot\_framework\TaskManagment.WEB.72zidwl0mw.wasm.gz
 C:\Users\Zver\Desktop\HomePetProjects\CTMS\TaskManagment.WEB\bin\Debug\net9.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.b16upo65in.wasm.gz
 C:\Users\Zver\Desktop\HomePetProjects\CTMS\TaskManagment.WEB\bin\Debug\net9.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.rjes0877t5.wasm.gz
 C:\Users\Zver\Desktop\HomePetProjects\CTMS\TaskManagment.WEB\bin\Debug\net9.0\wwwroot\_framework\System.Threading.Timer.yf2iqnmdhk.wasm.gz
@@ -1065,9 +1061,6 @@ C:\Users\Zver\Desktop\HomePetProjects\CTMS\TaskManagment.WEB\obj\Debug\net9.0\co
 C:\Users\Zver\Desktop\HomePetProjects\CTMS\TaskManagment.WEB\obj\Debug\net9.0\compressed\1y39m8iq6v-tjcz0u77k5.gz
 C:\Users\Zver\Desktop\HomePetProjects\CTMS\TaskManagment.WEB\obj\Debug\net9.0\compressed\wias3uxiuv-tptq2av103.gz
 C:\Users\Zver\Desktop\HomePetProjects\CTMS\TaskManagment.WEB\obj\Debug\net9.0\compressed\mm42ycvk5z-lfu7j35m59.gz
-C:\Users\Zver\Desktop\HomePetProjects\CTMS\TaskManagment.WEB\obj\Debug\net9.0\compressed\etp9kh9aqq-72zidwl0mw.gz
-C:\Users\Zver\Desktop\HomePetProjects\CTMS\TaskManagment.WEB\obj\Debug\net9.0\compressed\cbeh9tny0k-gxu1eahssg.gz
-C:\Users\Zver\Desktop\HomePetProjects\CTMS\TaskManagment.WEB\obj\Debug\net9.0\compressed\897rvnnwqs-44yzas3xy5.gz
 C:\Users\Zver\Desktop\HomePetProjects\CTMS\TaskManagment.WEB\obj\Debug\net9.0\staticwebassets.build.json
 C:\Users\Zver\Desktop\HomePetProjects\CTMS\TaskManagment.WEB\obj\Debug\net9.0\staticwebassets.development.json
 C:\Users\Zver\Desktop\HomePetProjects\CTMS\TaskManagment.WEB\obj\Debug\net9.0\staticwebassets.build.endpoints.json
@@ -1083,3 +1076,10 @@ C:\Users\Zver\Desktop\HomePetProjects\CTMS\TaskManagment.WEB\obj\Debug\net9.0\Ta
 C:\Users\Zver\Desktop\HomePetProjects\CTMS\TaskManagment.WEB\obj\Debug\net9.0\refint\TaskManagment.WEB.dll
 C:\Users\Zver\Desktop\HomePetProjects\CTMS\TaskManagment.WEB\obj\Debug\net9.0\TaskManagment.WEB.pdb
 C:\Users\Zver\Desktop\HomePetProjects\CTMS\TaskManagment.WEB\obj\Debug\net9.0\ref\TaskManagment.WEB.dll
+C:\Users\Zver\Desktop\HomePetProjects\CTMS\TaskManagment.WEB\bin\Debug\net9.0\wwwroot\_framework\TaskManagment.WEB.60hr9b15iu.pdb
+C:\Users\Zver\Desktop\HomePetProjects\CTMS\TaskManagment.WEB\bin\Debug\net9.0\wwwroot\_framework\TaskManagment.WEB.qk316pgeft.wasm
+C:\Users\Zver\Desktop\HomePetProjects\CTMS\TaskManagment.WEB\bin\Debug\net9.0\wwwroot\_framework\TaskManagment.WEB.60hr9b15iu.pdb.gz
+C:\Users\Zver\Desktop\HomePetProjects\CTMS\TaskManagment.WEB\bin\Debug\net9.0\wwwroot\_framework\TaskManagment.WEB.qk316pgeft.wasm.gz
+C:\Users\Zver\Desktop\HomePetProjects\CTMS\TaskManagment.WEB\obj\Debug\net9.0\compressed\etp9kh9aqq-qk316pgeft.gz
+C:\Users\Zver\Desktop\HomePetProjects\CTMS\TaskManagment.WEB\obj\Debug\net9.0\compressed\cbeh9tny0k-60hr9b15iu.gz
+C:\Users\Zver\Desktop\HomePetProjects\CTMS\TaskManagment.WEB\obj\Debug\net9.0\compressed\897rvnnwqs-fdiuzfipr7.gz

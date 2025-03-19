@@ -14,10 +14,10 @@ public abstract class BaseEntityConfiguration<T> : IEntityTypeConfiguration<T> w
             .HasDefaultValueSql("gen_random_uuid()");
 
         builder.Property(e => e.CreatedAt)
-            .IsRequired()
+            .HasColumnType("timestamp without time zone")
             .HasDefaultValueSql("CURRENT_TIMESTAMP");
 
         builder.Property(e => e.UpdatedAt)
-            .IsRequired(false);
+            .HasColumnType("timestamp without time zone");
     }
 }

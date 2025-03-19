@@ -14,3 +14,5 @@ C:\Users\Zver\Desktop\HomePetProjects\CTMS\TaskManagment.Infrastructure\bin\Debu
 C:\Users\Zver\Desktop\HomePetProjects\CTMS\TaskManagment.Infrastructure\bin\Debug\net9.0\TaskManagment.Core.pdb
 C:\Users\Zver\Desktop\HomePetProjects\CTMS\TaskManagment.Infrastructure\obj\Debug\net9.0\TaskManagment.Infrastructure.csproj.AssemblyReference.cache
 C:\Users\Zver\Desktop\HomePetProjects\CTMS\TaskManagment.Infrastructure\obj\Debug\net9.0\TaskMana.183305D7.Up2Date
+C:\Users\Zver\Desktop\HomePetProjects\CTMS\TaskManagment.Infrastructure\bin\Debug\net9.0\TaskManagment.Infrastructure.runtimeconfig.json
+C:\Users\Zver\Desktop\HomePetProjects\CTMS\TaskManagment.Infrastructure\obj\Debug\net9.0\TaskManagment.Infrastructure.genruntimeconfig.cache
