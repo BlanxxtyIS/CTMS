@@ -28,6 +28,7 @@ var app = builder.Build();
 
 if (app.Environment.IsDevelopment())
 {
+    app.UseWebAssemblyDebugging();
     app.MapOpenApi();
 }
 
@@ -36,10 +37,16 @@ app.UseHttpsRedirection();
 app.UseAuthentication();
 app.UseAuthorization();
 
+app.UseBlazorFrameworkFiles();
+app.UseStaticFiles();
+app.UseRouting();
+
 app.MapControllers();
 
 app.Map("/test", () => "Give me the loot");
 app.Map("/data", [Authorize] () => new { message = "Happy Hacking!" });
+
+app.MapFallbackToFile("index.html");
 
 app.Run();
 

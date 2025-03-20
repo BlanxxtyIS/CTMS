@@ -432,6 +432,16 @@
           "build/Microsoft.NET.Sdk.WebAssembly.Pack.props": {},
           "build/Microsoft.NET.Sdk.WebAssembly.Pack.targets": {}
         }
+      },
+      "TaskManagment.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/TaskManagment.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TaskManagment.Core.dll": {}
+        }
       }
     },
     "net9.0/browser-wasm": {
@@ -864,6 +874,16 @@
         "build": {
           "build/Microsoft.NET.Sdk.WebAssembly.Pack.props": {},
           "build/Microsoft.NET.Sdk.WebAssembly.Pack.targets": {}
+        }
+      },
+      "TaskManagment.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/TaskManagment.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TaskManagment.Core.dll": {}
         }
       }
     }
@@ -1746,6 +1766,11 @@
         "tools/net9.0/Microsoft.NET.Sdk.WebAssembly.Pack.Tasks.dll",
         "tools/net9.0/Microsoft.NET.WebAssembly.Webcil.dll"
       ]
+    },
+    "TaskManagment.Core/1.0.0": {
+      "type": "project",
+      "path": "../TaskManagment.Core/TaskManagment.Core.csproj",
+      "msbuildProject": "../TaskManagment.Core/TaskManagment.Core.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -1753,7 +1778,8 @@
       "Microsoft.AspNetCore.Components.WebAssembly >= 9.0.0",
       "Microsoft.AspNetCore.Components.WebAssembly.DevServer >= 9.0.0",
       "Microsoft.NET.ILLink.Tasks >= 9.0.0",
-      "Microsoft.NET.Sdk.WebAssembly.Pack >= 9.0.0"
+      "Microsoft.NET.Sdk.WebAssembly.Pack >= 9.0.0",
+      "TaskManagment.Core >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -1788,7 +1814,11 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.Core\\TaskManagment.Core.csproj": {
+              "projectPath": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.Core\\TaskManagment.Core.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
