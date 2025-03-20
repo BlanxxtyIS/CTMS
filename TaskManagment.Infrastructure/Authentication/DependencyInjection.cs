@@ -1,21 +1,40 @@
-﻿using Microsoft.Extensions.Configuration;
-using Microsoft.Extensions.DependencyInjection;
-using TaskManagment.Core.Interfaces;
+﻿using Microsoft.Extensions.Options;
+using Microsoft.IdentityModel.Tokens;
+using System.IdentityModel.Tokens.Jwt;
+using System.Security.Claims;
+using System.Text;
+using TaskManagement.Application.Interfaces.Services;
+using TaskManagment.Infrastructure.Authentication;
 
-namespace TaskManagment.Infrastructure.Authentication;
+namespace TaskManagement.Infrastructure.Authentication;
 
-public static class DependencyInjection
+public class JwtTokenService : IJwtService 
 {
-    public static IServiceCollection AddInfrastructure(
-        this IServiceCollection services,
-        IConfiguration configuration)
-        {   
-        services.Configure<JwtSettings>(
-                configuration.GetSection("JwtSettings"));
+    private readonly JwtSettings _jwtSettings;
 
-        
-        services.AddScoped<ITokenService, JwtTokenService>();
+    public JwtTokenService(IOptions<JwtSettings> jwtSettings)
+    {
+        _jwtSettings = jwtSettings.Value;
+    }
 
-        return services;
+    public string GenerateToken(string username, IEnumerable<string> roles)
+    {
+        var claims = new List<Claim>
+        {
+            new Claim(ClaimTypes.Name, username)
+        };
+
+        var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(_jwtSettings.SecretKey));
+        var credentials = new SigningCredentials(key, SecurityAlgorithms.HmacSha256);
+
+        var jwt = new JwtSecurityToken(
+            issuer: _jwtSettings.Issuer,
+            audience: _jwtSettings.Audience,
+            claims: claims,
+            expires: DateTime.UtcNow.AddMinutes(_jwtSettings.ExpirationMinutes),
+            signingCredentials: credentials
+        );
+
+        return new JwtSecurityTokenHandler().WriteToken(jwt);
     }
 }

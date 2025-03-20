@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bnFkxgLMzrk=",
+  "dgSpecHash": "S/6pT4ox5uk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\TaskManagment.WEB.csproj",
+  "projectFilePath": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\TaskManagment.Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Zver\\.nuget\\packages\\microsoft.aspnetcore.authorization\\9.0.0\\microsoft.aspnetcore.authorization.9.0.0.nupkg.sha512",
     "C:\\Users\\Zver\\.nuget\\packages\\microsoft.aspnetcore.components\\9.0.0\\microsoft.aspnetcore.components.9.0.0.nupkg.sha512",

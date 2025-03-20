@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Identity.Data;
 using Microsoft.AspNetCore.Mvc;
-using TaskManagment.Core.Interfaces;
+using TaskManagement.Application.Interfaces.Services;
 using TaskManagment.Infrastructure.Authentication;
 
 namespace TaskManagment.API.Controllers;
@@ -9,9 +9,9 @@ namespace TaskManagment.API.Controllers;
 [Route("api/[controller]")]
 public class AuthController : ControllerBase
 {
-    private readonly ITokenService _tokenService;
+    private readonly IJwtService _tokenService;
 
-    public AuthController(ITokenService tokenService)
+    public AuthController(IJwtService tokenService)
     {
         _tokenService = tokenService;
     }

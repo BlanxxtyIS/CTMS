@@ -1763,9 +1763,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\TaskManagment.WEB.csproj",
-      "projectName": "TaskManagment.WEB",
-      "projectPath": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\TaskManagment.WEB.csproj",
+      "projectUniqueName": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\TaskManagment.Client.csproj",
+      "projectName": "TaskManagment.Client",
+      "projectPath": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\TaskManagment.Client.csproj",
       "packagesPath": "C:\\Users\\Zver\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\obj\\",
       "projectStyle": "PackageReference",

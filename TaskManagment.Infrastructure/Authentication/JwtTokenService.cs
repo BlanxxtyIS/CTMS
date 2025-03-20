@@ -4,11 +4,11 @@ using Microsoft.IdentityModel.Tokens;
 using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using System.Text;
-using TaskManagment.Core.Interfaces;
+using TaskManagement.Application.Interfaces.Services;
 
 namespace TaskManagment.Infrastructure.Authentication;
 
-public class JwtTokenService : ITokenService
+public class JwtTokenService : IJwtService
 {
     private readonly JwtSettings _jwtSettings;
 
