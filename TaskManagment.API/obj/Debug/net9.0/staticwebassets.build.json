@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "UbEm1wMtHAN+ECIWNVnb15ykmwefHb6CjVIHoY4jnIA=",
+  "Hash": "+TwlqmeVO+7by2VtSKEczvFrvoGfrfjW0G1/uJCtu54=",
   "Source": "TaskManagment.API",
   "BasePath": "_content/TaskManagment.API",
   "Mode": "Default",
@@ -43,8 +43,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "0haeehcvvc",
-      "Integrity": "hF6jPdK7yCwHDSU7NeaAQ9XqWBrNNLna1X9j/NCO97k=",
+      "Fingerprint": "fuod2idvf7",
+      "Integrity": "+ebK8PxF3I7+7xARE1FLWQrbUmbmjjD0ZhX03uHuR1s=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json"
@@ -4264,8 +4264,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "utiozc4pin",
-      "Integrity": "UqgAH4TPMxVPjxaLoaqbXgswCceFykhScgpJGRUkt4E=",
+      "Fingerprint": "dnv9sc7lcr",
+      "Integrity": "h/tO9WzXyALdA4Ff3sU/jfWDno/KUN6ScaMAAmelfDE=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\bin\\Debug\\net9.0\\wwwroot\\_framework\\TaskManagment.Client.pdb"
@@ -4285,8 +4285,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "1xrzgow5fz",
-      "Integrity": "69fYw8ZQ0p3bN8TxQSGdhXZJyZ/taeSnwzLeqEqG5mA=",
+      "Fingerprint": "zrb5tmv03t",
+      "Integrity": "3w+/D0nqdltQ9fJ1IZEyiV09gq0GZr2RO0IahFjGh9A=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\bin\\Debug\\net9.0\\wwwroot\\_framework\\TaskManagment.Client.wasm"
@@ -4306,8 +4306,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "4fsegfig58",
-      "Integrity": "YFNMi7nl9ZsgBxO/AqvIqwHUTdy5Tm4DFciKQMgXZgU=",
+      "Fingerprint": "tlju9tcv9f",
+      "Integrity": "wXvEPmhe2Exp500nXywlFW6q0aZI4yCWszRlULlQgSc=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\bin\\Debug\\net9.0\\wwwroot\\_framework\\TaskManagment.Core.pdb"
@@ -4327,8 +4327,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "s4lkzlf72y",
-      "Integrity": "/M6O93OIbNNsQA4dj4kbXIgsZCngeNuJfYSuJuPpqmw=",
+      "Fingerprint": "nbqlcode15",
+      "Integrity": "fUtt6aWYo0+DOWf1Pw6gM7tQ/DwM+tqx9ybNQU/2A4A=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\bin\\Debug\\net9.0\\wwwroot\\_framework\\TaskManagment.Core.wasm"
@@ -4523,12 +4523,12 @@
       "OriginalItemSpec": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\obj\\Debug\\net9.0\\compressed\\17wddylsu7-yb2s2zwjy3.gz"
     },
     {
-      "Identity": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\obj\\Debug\\net9.0\\compressed\\1ha0u8cdjl-4fsegfig58.gz",
+      "Identity": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\obj\\Debug\\net9.0\\compressed\\1ha0u8cdjl-tlju9tcv9f.gz",
       "SourceId": "TaskManagment.Client",
       "SourceType": "Project",
       "ContentRoot": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/TaskManagment.Core#[.{fingerprint=4fsegfig58}]!.pdb.gz",
+      "RelativePath": "_framework/TaskManagment.Core#[.{fingerprint=tlju9tcv9f}]!.pdb.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -4537,11 +4537,11 @@
       "RelatedAsset": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\bin\\Debug\\net9.0\\wwwroot\\_framework\\TaskManagment.Core.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "qzng405jp9",
-      "Integrity": "dnEZhaDjvzYQ/DccDe8uJnpHY4MouyStcPhX28ihf7g=",
+      "Fingerprint": "8em2aczcu1",
+      "Integrity": "4AcuJhaKvwJFqtf1Gz6MWl6CEj2hZ4SzIziPUEP55Uc=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\obj\\Debug\\net9.0\\compressed\\1ha0u8cdjl-4fsegfig58.gz"
+      "OriginalItemSpec": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\obj\\Debug\\net9.0\\compressed\\1ha0u8cdjl-tlju9tcv9f.gz"
     },
     {
       "Identity": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\obj\\Debug\\net9.0\\compressed\\1mbbr3jg6r-h1ambxmssc.gz",
@@ -4985,12 +4985,12 @@
       "OriginalItemSpec": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\obj\\Debug\\net9.0\\compressed\\444j4wb6bw-iv1kot37bt.gz"
     },
     {
-      "Identity": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\obj\\Debug\\net9.0\\compressed\\46bu2g5i9g-1xrzgow5fz.gz",
+      "Identity": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\obj\\Debug\\net9.0\\compressed\\46bu2g5i9g-zrb5tmv03t.gz",
       "SourceId": "TaskManagment.Client",
       "SourceType": "Project",
       "ContentRoot": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/TaskManagment.Client#[.{fingerprint=1xrzgow5fz}]!.wasm.gz",
+      "RelativePath": "_framework/TaskManagment.Client#[.{fingerprint=zrb5tmv03t}]!.wasm.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -4999,11 +4999,11 @@
       "RelatedAsset": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\bin\\Debug\\net9.0\\wwwroot\\_framework\\TaskManagment.Client.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "th6mxs9osd",
-      "Integrity": "n/S6Tpg0enrwwMlccmqckc+4Rg9NLvwkSWE99USg39Y=",
+      "Fingerprint": "orsvslh2pe",
+      "Integrity": "ZEOxwdUzz6ZK4ccYwUBhu1idG59sHO3GL0/iIvj96bY=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\obj\\Debug\\net9.0\\compressed\\46bu2g5i9g-1xrzgow5fz.gz"
+      "OriginalItemSpec": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\obj\\Debug\\net9.0\\compressed\\46bu2g5i9g-zrb5tmv03t.gz"
     },
     {
       "Identity": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\obj\\Debug\\net9.0\\compressed\\49ig6x7dse-nvvlpmu67g.gz",
@@ -5405,12 +5405,12 @@
       "OriginalItemSpec": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\obj\\Debug\\net9.0\\compressed\\7kdmtcwe6m-ci0en3br7m.gz"
     },
     {
-      "Identity": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\obj\\Debug\\net9.0\\compressed\\7scbkn6fqh-utiozc4pin.gz",
+      "Identity": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\obj\\Debug\\net9.0\\compressed\\7scbkn6fqh-dnv9sc7lcr.gz",
       "SourceId": "TaskManagment.Client",
       "SourceType": "Project",
       "ContentRoot": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/TaskManagment.Client#[.{fingerprint=utiozc4pin}]!.pdb.gz",
+      "RelativePath": "_framework/TaskManagment.Client#[.{fingerprint=dnv9sc7lcr}]!.pdb.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -5419,11 +5419,11 @@
       "RelatedAsset": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\bin\\Debug\\net9.0\\wwwroot\\_framework\\TaskManagment.Client.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "eockm90mim",
-      "Integrity": "Lpflt+wNhXwbsw5RzUleijLz3yFYJcovkR0snPu1V/E=",
+      "Fingerprint": "0ggxuwyg96",
+      "Integrity": "gE/ypwuMhfRNQ6bSu/63bLFqUcX45n0vFncU5CYCPME=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\obj\\Debug\\net9.0\\compressed\\7scbkn6fqh-utiozc4pin.gz"
+      "OriginalItemSpec": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\obj\\Debug\\net9.0\\compressed\\7scbkn6fqh-dnv9sc7lcr.gz"
     },
     {
       "Identity": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\obj\\Debug\\net9.0\\compressed\\8dnqrlowl7-ijnujodfj9.gz",
@@ -7253,7 +7253,7 @@
       "OriginalItemSpec": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\obj\\Debug\\net9.0\\compressed\\larcgr6o82-k8d9w2qqmf.gz"
     },
     {
-      "Identity": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\obj\\Debug\\net9.0\\compressed\\lln6oeowc5-0haeehcvvc.gz",
+      "Identity": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\obj\\Debug\\net9.0\\compressed\\lln6oeowc5-fuod2idvf7.gz",
       "SourceId": "TaskManagment.Client",
       "SourceType": "Project",
       "ContentRoot": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\obj\\Debug\\net9.0\\compressed\\",
@@ -7267,11 +7267,11 @@
       "RelatedAsset": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "da8v65tl1r",
-      "Integrity": "S7qNPn/oluHsYHqss3UiRfI3A+udKeh94MXvAevFJiU=",
+      "Fingerprint": "60u60dpj98",
+      "Integrity": "mn5QY2Nbxt6fRHhPxkrYSEsuE5lXAqrsPHIaME7c4/0=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\obj\\Debug\\net9.0\\compressed\\lln6oeowc5-0haeehcvvc.gz"
+      "OriginalItemSpec": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\obj\\Debug\\net9.0\\compressed\\lln6oeowc5-fuod2idvf7.gz"
     },
     {
       "Identity": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\obj\\Debug\\net9.0\\compressed\\lxbn4zxzv8-ahchakyb75.gz",
@@ -7799,12 +7799,12 @@
       "OriginalItemSpec": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\obj\\Debug\\net9.0\\compressed\\pat2ibuopn-jxe0h85qgr.gz"
     },
     {
-      "Identity": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\obj\\Debug\\net9.0\\compressed\\pe2afqw3uy-s4lkzlf72y.gz",
+      "Identity": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\obj\\Debug\\net9.0\\compressed\\pe2afqw3uy-nbqlcode15.gz",
       "SourceId": "TaskManagment.Client",
       "SourceType": "Project",
       "ContentRoot": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/TaskManagment.Core#[.{fingerprint=s4lkzlf72y}]!.wasm.gz",
+      "RelativePath": "_framework/TaskManagment.Core#[.{fingerprint=nbqlcode15}]!.wasm.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -7813,11 +7813,11 @@
       "RelatedAsset": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\bin\\Debug\\net9.0\\wwwroot\\_framework\\TaskManagment.Core.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "6zik52uxxf",
-      "Integrity": "EirbF26LINM3xFa99THw5bS29f5g3r7r29XjCyamNOk=",
+      "Fingerprint": "bvn72oatns",
+      "Integrity": "l/biExyG6lN7Xxy3zJbOtxbtXDpNwbkVr3EOGXsfv/o=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\obj\\Debug\\net9.0\\compressed\\pe2afqw3uy-s4lkzlf72y.gz"
+      "OriginalItemSpec": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\obj\\Debug\\net9.0\\compressed\\pe2afqw3uy-nbqlcode15.gz"
     },
     {
       "Identity": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\obj\\Debug\\net9.0\\compressed\\pykpwsk0e3-5osbqvurog.gz",
@@ -10679,28 +10679,28 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"hF6jPdK7yCwHDSU7NeaAQ9XqWBrNNLna1X9j/NCO97k=\""
+          "Value": "\"+ebK8PxF3I7+7xARE1FLWQrbUmbmjjD0ZhX03uHuR1s=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 18:18:12 GMT"
+          "Value": "Mon, 24 Mar 2025 19:39:29 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-hF6jPdK7yCwHDSU7NeaAQ9XqWBrNNLna1X9j/NCO97k="
+          "Value": "sha256-+ebK8PxF3I7+7xARE1FLWQrbUmbmjjD0ZhX03uHuR1s="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json",
-      "AssetFile": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\obj\\Debug\\net9.0\\compressed\\lln6oeowc5-0haeehcvvc.gz",
+      "AssetFile": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\obj\\Debug\\net9.0\\compressed\\lln6oeowc5-fuod2idvf7.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000080076874"
+          "Quality": "0.000080089700"
         }
       ],
       "ResponseHeaders": [
@@ -10718,15 +10718,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12487"
+          "Value": "12485"
         },
         {
           "Name": "ETag",
-          "Value": "\"S7qNPn/oluHsYHqss3UiRfI3A+udKeh94MXvAevFJiU=\""
+          "Value": "\"mn5QY2Nbxt6fRHhPxkrYSEsuE5lXAqrsPHIaME7c4/0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 18:16:47 GMT"
+          "Value": "Mon, 24 Mar 2025 19:32:54 GMT"
         },
         {
           "Name": "Vary",
@@ -10738,19 +10738,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"hF6jPdK7yCwHDSU7NeaAQ9XqWBrNNLna1X9j/NCO97k=\""
+          "Value": "W/\"+ebK8PxF3I7+7xARE1FLWQrbUmbmjjD0ZhX03uHuR1s=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-hF6jPdK7yCwHDSU7NeaAQ9XqWBrNNLna1X9j/NCO97k="
+          "Value": "sha256-+ebK8PxF3I7+7xARE1FLWQrbUmbmjjD0ZhX03uHuR1s="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\obj\\Debug\\net9.0\\compressed\\lln6oeowc5-0haeehcvvc.gz",
+      "AssetFile": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\obj\\Debug\\net9.0\\compressed\\lln6oeowc5-fuod2idvf7.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10767,7 +10767,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12487"
+          "Value": "12485"
         },
         {
           "Name": "Content-Type",
@@ -10775,11 +10775,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"S7qNPn/oluHsYHqss3UiRfI3A+udKeh94MXvAevFJiU=\""
+          "Value": "\"mn5QY2Nbxt6fRHhPxkrYSEsuE5lXAqrsPHIaME7c4/0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 18:16:47 GMT"
+          "Value": "Mon, 24 Mar 2025 19:32:54 GMT"
         },
         {
           "Name": "Vary",
@@ -10789,7 +10789,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-S7qNPn/oluHsYHqss3UiRfI3A+udKeh94MXvAevFJiU="
+          "Value": "sha256-mn5QY2Nbxt6fRHhPxkrYSEsuE5lXAqrsPHIaME7c4/0="
         }
       ]
     },
@@ -70233,305 +70233,7 @@
       ]
     },
     {
-      "Route": "_framework/TaskManagment.Client.1xrzgow5fz.wasm",
-      "AssetFile": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\bin\\Debug\\net9.0\\wwwroot\\_framework\\TaskManagment.Client.wasm",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "20757"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"69fYw8ZQ0p3bN8TxQSGdhXZJyZ/taeSnwzLeqEqG5mA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 18:18:11 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "1xrzgow5fz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-69fYw8ZQ0p3bN8TxQSGdhXZJyZ/taeSnwzLeqEqG5mA="
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/TaskManagment.Client.wasm"
-        }
-      ]
-    },
-    {
-      "Route": "_framework/TaskManagment.Client.1xrzgow5fz.wasm",
-      "AssetFile": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\obj\\Debug\\net9.0\\compressed\\46bu2g5i9g-1xrzgow5fz.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000118371212"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "8447"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"n/S6Tpg0enrwwMlccmqckc+4Rg9NLvwkSWE99USg39Y=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 18:18:12 GMT"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"69fYw8ZQ0p3bN8TxQSGdhXZJyZ/taeSnwzLeqEqG5mA=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "1xrzgow5fz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-69fYw8ZQ0p3bN8TxQSGdhXZJyZ/taeSnwzLeqEqG5mA="
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/TaskManagment.Client.wasm"
-        }
-      ]
-    },
-    {
-      "Route": "_framework/TaskManagment.Client.1xrzgow5fz.wasm.gz",
-      "AssetFile": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\obj\\Debug\\net9.0\\compressed\\46bu2g5i9g-1xrzgow5fz.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "8447"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"n/S6Tpg0enrwwMlccmqckc+4Rg9NLvwkSWE99USg39Y=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 18:18:12 GMT"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "1xrzgow5fz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-n/S6Tpg0enrwwMlccmqckc+4Rg9NLvwkSWE99USg39Y="
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/TaskManagment.Client.wasm.gz"
-        }
-      ]
-    },
-    {
-      "Route": "_framework/TaskManagment.Client.pdb",
-      "AssetFile": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\bin\\Debug\\net9.0\\wwwroot\\_framework\\TaskManagment.Client.pdb",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "24360"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"UqgAH4TPMxVPjxaLoaqbXgswCceFykhScgpJGRUkt4E=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 18:18:11 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-UqgAH4TPMxVPjxaLoaqbXgswCceFykhScgpJGRUkt4E="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/TaskManagment.Client.pdb",
-      "AssetFile": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\obj\\Debug\\net9.0\\compressed\\7scbkn6fqh-utiozc4pin.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000056274620"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "17769"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Lpflt+wNhXwbsw5RzUleijLz3yFYJcovkR0snPu1V/E=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 18:18:12 GMT"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"UqgAH4TPMxVPjxaLoaqbXgswCceFykhScgpJGRUkt4E=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-UqgAH4TPMxVPjxaLoaqbXgswCceFykhScgpJGRUkt4E="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/TaskManagment.Client.pdb.gz",
-      "AssetFile": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\obj\\Debug\\net9.0\\compressed\\7scbkn6fqh-utiozc4pin.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "17769"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Lpflt+wNhXwbsw5RzUleijLz3yFYJcovkR0snPu1V/E=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 18:18:12 GMT"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-Lpflt+wNhXwbsw5RzUleijLz3yFYJcovkR0snPu1V/E="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/TaskManagment.Client.utiozc4pin.pdb",
+      "Route": "_framework/TaskManagment.Client.dnv9sc7lcr.pdb",
       "AssetFile": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\bin\\Debug\\net9.0\\wwwroot\\_framework\\TaskManagment.Client.pdb",
       "Selectors": [],
       "ResponseHeaders": [
@@ -70545,7 +70247,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "24360"
+          "Value": "26148"
         },
         {
           "Name": "Content-Type",
@@ -70553,21 +70255,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"UqgAH4TPMxVPjxaLoaqbXgswCceFykhScgpJGRUkt4E=\""
+          "Value": "\"h/tO9WzXyALdA4Ff3sU/jfWDno/KUN6ScaMAAmelfDE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 18:18:11 GMT"
+          "Value": "Mon, 24 Mar 2025 19:39:28 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "utiozc4pin"
+          "Value": "dnv9sc7lcr"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-UqgAH4TPMxVPjxaLoaqbXgswCceFykhScgpJGRUkt4E="
+          "Value": "sha256-h/tO9WzXyALdA4Ff3sU/jfWDno/KUN6ScaMAAmelfDE="
         },
         {
           "Name": "label",
@@ -70576,13 +70278,13 @@
       ]
     },
     {
-      "Route": "_framework/TaskManagment.Client.utiozc4pin.pdb",
-      "AssetFile": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\obj\\Debug\\net9.0\\compressed\\7scbkn6fqh-utiozc4pin.gz",
+      "Route": "_framework/TaskManagment.Client.dnv9sc7lcr.pdb",
+      "AssetFile": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\obj\\Debug\\net9.0\\compressed\\7scbkn6fqh-dnv9sc7lcr.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000056274620"
+          "Quality": "0.000052086046"
         }
       ],
       "ResponseHeaders": [
@@ -70600,15 +70302,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "17769"
+          "Value": "19198"
         },
         {
           "Name": "ETag",
-          "Value": "\"Lpflt+wNhXwbsw5RzUleijLz3yFYJcovkR0snPu1V/E=\""
+          "Value": "\"gE/ypwuMhfRNQ6bSu/63bLFqUcX45n0vFncU5CYCPME=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 18:18:12 GMT"
+          "Value": "Mon, 24 Mar 2025 19:39:29 GMT"
         },
         {
           "Name": "Vary",
@@ -70620,17 +70322,17 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"UqgAH4TPMxVPjxaLoaqbXgswCceFykhScgpJGRUkt4E=\""
+          "Value": "W/\"h/tO9WzXyALdA4Ff3sU/jfWDno/KUN6ScaMAAmelfDE=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "utiozc4pin"
+          "Value": "dnv9sc7lcr"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-UqgAH4TPMxVPjxaLoaqbXgswCceFykhScgpJGRUkt4E="
+          "Value": "sha256-h/tO9WzXyALdA4Ff3sU/jfWDno/KUN6ScaMAAmelfDE="
         },
         {
           "Name": "label",
@@ -70639,8 +70341,8 @@
       ]
     },
     {
-      "Route": "_framework/TaskManagment.Client.utiozc4pin.pdb.gz",
-      "AssetFile": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\obj\\Debug\\net9.0\\compressed\\7scbkn6fqh-utiozc4pin.gz",
+      "Route": "_framework/TaskManagment.Client.dnv9sc7lcr.pdb.gz",
+      "AssetFile": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\obj\\Debug\\net9.0\\compressed\\7scbkn6fqh-dnv9sc7lcr.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -70657,7 +70359,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "17769"
+          "Value": "19198"
         },
         {
           "Name": "Content-Type",
@@ -70665,11 +70367,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Lpflt+wNhXwbsw5RzUleijLz3yFYJcovkR0snPu1V/E=\""
+          "Value": "\"gE/ypwuMhfRNQ6bSu/63bLFqUcX45n0vFncU5CYCPME=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 18:18:12 GMT"
+          "Value": "Mon, 24 Mar 2025 19:39:29 GMT"
         },
         {
           "Name": "Vary",
@@ -70679,11 +70381,11 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "utiozc4pin"
+          "Value": "dnv9sc7lcr"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Lpflt+wNhXwbsw5RzUleijLz3yFYJcovkR0snPu1V/E="
+          "Value": "sha256-gE/ypwuMhfRNQ6bSu/63bLFqUcX45n0vFncU5CYCPME="
         },
         {
           "Name": "label",
@@ -70692,6 +70394,143 @@
       ]
     },
     {
+      "Route": "_framework/TaskManagment.Client.pdb",
+      "AssetFile": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\bin\\Debug\\net9.0\\wwwroot\\_framework\\TaskManagment.Client.pdb",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26148"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"h/tO9WzXyALdA4Ff3sU/jfWDno/KUN6ScaMAAmelfDE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 19:39:28 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-h/tO9WzXyALdA4Ff3sU/jfWDno/KUN6ScaMAAmelfDE="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/TaskManagment.Client.pdb",
+      "AssetFile": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\obj\\Debug\\net9.0\\compressed\\7scbkn6fqh-dnv9sc7lcr.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000052086046"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19198"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gE/ypwuMhfRNQ6bSu/63bLFqUcX45n0vFncU5CYCPME=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 19:39:29 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"h/tO9WzXyALdA4Ff3sU/jfWDno/KUN6ScaMAAmelfDE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-h/tO9WzXyALdA4Ff3sU/jfWDno/KUN6ScaMAAmelfDE="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/TaskManagment.Client.pdb.gz",
+      "AssetFile": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\obj\\Debug\\net9.0\\compressed\\7scbkn6fqh-dnv9sc7lcr.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19198"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gE/ypwuMhfRNQ6bSu/63bLFqUcX45n0vFncU5CYCPME=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 19:39:29 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gE/ypwuMhfRNQ6bSu/63bLFqUcX45n0vFncU5CYCPME="
+        }
+      ]
+    },
+    {
       "Route": "_framework/TaskManagment.Client.wasm",
       "AssetFile": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\bin\\Debug\\net9.0\\wwwroot\\_framework\\TaskManagment.Client.wasm",
       "Selectors": [],
@@ -70706,7 +70545,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "20757"
+          "Value": "23829"
         },
         {
           "Name": "Content-Type",
@@ -70714,28 +70553,28 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"69fYw8ZQ0p3bN8TxQSGdhXZJyZ/taeSnwzLeqEqG5mA=\""
+          "Value": "\"3w+/D0nqdltQ9fJ1IZEyiV09gq0GZr2RO0IahFjGh9A=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 18:18:11 GMT"
+          "Value": "Mon, 24 Mar 2025 19:39:28 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-69fYw8ZQ0p3bN8TxQSGdhXZJyZ/taeSnwzLeqEqG5mA="
+          "Value": "sha256-3w+/D0nqdltQ9fJ1IZEyiV09gq0GZr2RO0IahFjGh9A="
         }
       ]
     },
     {
       "Route": "_framework/TaskManagment.Client.wasm",
-      "AssetFile": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\obj\\Debug\\net9.0\\compressed\\46bu2g5i9g-1xrzgow5fz.gz",
+      "AssetFile": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\obj\\Debug\\net9.0\\compressed\\46bu2g5i9g-zrb5tmv03t.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000118371212"
+          "Quality": "0.000102616727"
         }
       ],
       "ResponseHeaders": [
@@ -70753,15 +70592,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8447"
+          "Value": "9744"
         },
         {
           "Name": "ETag",
-          "Value": "\"n/S6Tpg0enrwwMlccmqckc+4Rg9NLvwkSWE99USg39Y=\""
+          "Value": "\"ZEOxwdUzz6ZK4ccYwUBhu1idG59sHO3GL0/iIvj96bY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 18:18:12 GMT"
+          "Value": "Mon, 24 Mar 2025 19:39:29 GMT"
         },
         {
           "Name": "Vary",
@@ -70773,19 +70612,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"69fYw8ZQ0p3bN8TxQSGdhXZJyZ/taeSnwzLeqEqG5mA=\""
+          "Value": "W/\"3w+/D0nqdltQ9fJ1IZEyiV09gq0GZr2RO0IahFjGh9A=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-69fYw8ZQ0p3bN8TxQSGdhXZJyZ/taeSnwzLeqEqG5mA="
+          "Value": "sha256-3w+/D0nqdltQ9fJ1IZEyiV09gq0GZr2RO0IahFjGh9A="
         }
       ]
     },
     {
       "Route": "_framework/TaskManagment.Client.wasm.gz",
-      "AssetFile": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\obj\\Debug\\net9.0\\compressed\\46bu2g5i9g-1xrzgow5fz.gz",
+      "AssetFile": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\obj\\Debug\\net9.0\\compressed\\46bu2g5i9g-zrb5tmv03t.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -70802,7 +70641,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8447"
+          "Value": "9744"
         },
         {
           "Name": "Content-Type",
@@ -70810,11 +70649,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"n/S6Tpg0enrwwMlccmqckc+4Rg9NLvwkSWE99USg39Y=\""
+          "Value": "\"ZEOxwdUzz6ZK4ccYwUBhu1idG59sHO3GL0/iIvj96bY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 18:18:12 GMT"
+          "Value": "Mon, 24 Mar 2025 19:39:29 GMT"
         },
         {
           "Name": "Vary",
@@ -70824,13 +70663,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-n/S6Tpg0enrwwMlccmqckc+4Rg9NLvwkSWE99USg39Y="
+          "Value": "sha256-ZEOxwdUzz6ZK4ccYwUBhu1idG59sHO3GL0/iIvj96bY="
         }
       ]
     },
     {
-      "Route": "_framework/TaskManagment.Core.4fsegfig58.pdb",
-      "AssetFile": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\bin\\Debug\\net9.0\\wwwroot\\_framework\\TaskManagment.Core.pdb",
+      "Route": "_framework/TaskManagment.Client.zrb5tmv03t.wasm",
+      "AssetFile": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\bin\\Debug\\net9.0\\wwwroot\\_framework\\TaskManagment.Client.wasm",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -70843,44 +70682,44 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "14952"
+          "Value": "23829"
         },
         {
           "Name": "Content-Type",
-          "Value": "application/octet-stream"
+          "Value": "application/wasm"
         },
         {
           "Name": "ETag",
-          "Value": "\"YFNMi7nl9ZsgBxO/AqvIqwHUTdy5Tm4DFciKQMgXZgU=\""
+          "Value": "\"3w+/D0nqdltQ9fJ1IZEyiV09gq0GZr2RO0IahFjGh9A=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 18:03:15 GMT"
+          "Value": "Mon, 24 Mar 2025 19:39:28 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "4fsegfig58"
+          "Value": "zrb5tmv03t"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-YFNMi7nl9ZsgBxO/AqvIqwHUTdy5Tm4DFciKQMgXZgU="
+          "Value": "sha256-3w+/D0nqdltQ9fJ1IZEyiV09gq0GZr2RO0IahFjGh9A="
         },
         {
           "Name": "label",
-          "Value": "_framework/TaskManagment.Core.pdb"
+          "Value": "_framework/TaskManagment.Client.wasm"
         }
       ]
     },
     {
-      "Route": "_framework/TaskManagment.Core.4fsegfig58.pdb",
-      "AssetFile": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\obj\\Debug\\net9.0\\compressed\\1ha0u8cdjl-4fsegfig58.gz",
+      "Route": "_framework/TaskManagment.Client.zrb5tmv03t.wasm",
+      "AssetFile": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\obj\\Debug\\net9.0\\compressed\\46bu2g5i9g-zrb5tmv03t.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000123441550"
+          "Quality": "0.000102616727"
         }
       ],
       "ResponseHeaders": [
@@ -70898,15 +70737,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8100"
+          "Value": "9744"
         },
         {
           "Name": "ETag",
-          "Value": "\"dnEZhaDjvzYQ/DccDe8uJnpHY4MouyStcPhX28ihf7g=\""
+          "Value": "\"ZEOxwdUzz6ZK4ccYwUBhu1idG59sHO3GL0/iIvj96bY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 18:03:19 GMT"
+          "Value": "Mon, 24 Mar 2025 19:39:29 GMT"
         },
         {
           "Name": "Vary",
@@ -70914,31 +70753,31 @@
         },
         {
           "Name": "Content-Type",
-          "Value": "application/octet-stream"
+          "Value": "application/wasm"
         },
         {
           "Name": "ETag",
-          "Value": "W/\"YFNMi7nl9ZsgBxO/AqvIqwHUTdy5Tm4DFciKQMgXZgU=\""
+          "Value": "W/\"3w+/D0nqdltQ9fJ1IZEyiV09gq0GZr2RO0IahFjGh9A=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "4fsegfig58"
+          "Value": "zrb5tmv03t"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-YFNMi7nl9ZsgBxO/AqvIqwHUTdy5Tm4DFciKQMgXZgU="
+          "Value": "sha256-3w+/D0nqdltQ9fJ1IZEyiV09gq0GZr2RO0IahFjGh9A="
         },
         {
           "Name": "label",
-          "Value": "_framework/TaskManagment.Core.pdb"
+          "Value": "_framework/TaskManagment.Client.wasm"
         }
       ]
     },
     {
-      "Route": "_framework/TaskManagment.Core.4fsegfig58.pdb.gz",
-      "AssetFile": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\obj\\Debug\\net9.0\\compressed\\1ha0u8cdjl-4fsegfig58.gz",
+      "Route": "_framework/TaskManagment.Client.zrb5tmv03t.wasm.gz",
+      "AssetFile": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\obj\\Debug\\net9.0\\compressed\\46bu2g5i9g-zrb5tmv03t.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -70955,19 +70794,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8100"
+          "Value": "9744"
         },
         {
           "Name": "Content-Type",
-          "Value": "application/octet-stream"
+          "Value": "application/wasm"
         },
         {
           "Name": "ETag",
-          "Value": "\"dnEZhaDjvzYQ/DccDe8uJnpHY4MouyStcPhX28ihf7g=\""
+          "Value": "\"ZEOxwdUzz6ZK4ccYwUBhu1idG59sHO3GL0/iIvj96bY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 18:03:19 GMT"
+          "Value": "Mon, 24 Mar 2025 19:39:29 GMT"
         },
         {
           "Name": "Vary",
@@ -70977,157 +70816,20 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "4fsegfig58"
+          "Value": "zrb5tmv03t"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-dnEZhaDjvzYQ/DccDe8uJnpHY4MouyStcPhX28ihf7g="
+          "Value": "sha256-ZEOxwdUzz6ZK4ccYwUBhu1idG59sHO3GL0/iIvj96bY="
         },
         {
           "Name": "label",
-          "Value": "_framework/TaskManagment.Core.pdb.gz"
+          "Value": "_framework/TaskManagment.Client.wasm.gz"
         }
       ]
     },
     {
-      "Route": "_framework/TaskManagment.Core.pdb",
-      "AssetFile": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\bin\\Debug\\net9.0\\wwwroot\\_framework\\TaskManagment.Core.pdb",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "14952"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"YFNMi7nl9ZsgBxO/AqvIqwHUTdy5Tm4DFciKQMgXZgU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 18:03:15 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-YFNMi7nl9ZsgBxO/AqvIqwHUTdy5Tm4DFciKQMgXZgU="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/TaskManagment.Core.pdb",
-      "AssetFile": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\obj\\Debug\\net9.0\\compressed\\1ha0u8cdjl-4fsegfig58.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000123441550"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "8100"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"dnEZhaDjvzYQ/DccDe8uJnpHY4MouyStcPhX28ihf7g=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 18:03:19 GMT"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"YFNMi7nl9ZsgBxO/AqvIqwHUTdy5Tm4DFciKQMgXZgU=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-YFNMi7nl9ZsgBxO/AqvIqwHUTdy5Tm4DFciKQMgXZgU="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/TaskManagment.Core.pdb.gz",
-      "AssetFile": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\obj\\Debug\\net9.0\\compressed\\1ha0u8cdjl-4fsegfig58.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "8100"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"dnEZhaDjvzYQ/DccDe8uJnpHY4MouyStcPhX28ihf7g=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 18:03:19 GMT"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-dnEZhaDjvzYQ/DccDe8uJnpHY4MouyStcPhX28ihf7g="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/TaskManagment.Core.s4lkzlf72y.wasm",
+      "Route": "_framework/TaskManagment.Core.nbqlcode15.wasm",
       "AssetFile": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\bin\\Debug\\net9.0\\wwwroot\\_framework\\TaskManagment.Core.wasm",
       "Selectors": [],
       "ResponseHeaders": [
@@ -71149,21 +70851,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"/M6O93OIbNNsQA4dj4kbXIgsZCngeNuJfYSuJuPpqmw=\""
+          "Value": "\"fUtt6aWYo0+DOWf1Pw6gM7tQ/DwM+tqx9ybNQU/2A4A=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 18:03:18 GMT"
+          "Value": "Mon, 24 Mar 2025 19:28:59 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "s4lkzlf72y"
+          "Value": "nbqlcode15"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-/M6O93OIbNNsQA4dj4kbXIgsZCngeNuJfYSuJuPpqmw="
+          "Value": "sha256-fUtt6aWYo0+DOWf1Pw6gM7tQ/DwM+tqx9ybNQU/2A4A="
         },
         {
           "Name": "label",
@@ -71172,13 +70874,13 @@
       ]
     },
     {
-      "Route": "_framework/TaskManagment.Core.s4lkzlf72y.wasm",
-      "AssetFile": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\obj\\Debug\\net9.0\\compressed\\pe2afqw3uy-s4lkzlf72y.gz",
+      "Route": "_framework/TaskManagment.Core.nbqlcode15.wasm",
+      "AssetFile": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\obj\\Debug\\net9.0\\compressed\\pe2afqw3uy-nbqlcode15.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000184467810"
+          "Quality": "0.000184501845"
         }
       ],
       "ResponseHeaders": [
@@ -71196,15 +70898,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5420"
+          "Value": "5419"
         },
         {
           "Name": "ETag",
-          "Value": "\"EirbF26LINM3xFa99THw5bS29f5g3r7r29XjCyamNOk=\""
+          "Value": "\"l/biExyG6lN7Xxy3zJbOtxbtXDpNwbkVr3EOGXsfv/o=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 18:03:19 GMT"
+          "Value": "Mon, 24 Mar 2025 19:29:01 GMT"
         },
         {
           "Name": "Vary",
@@ -71216,17 +70918,17 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"/M6O93OIbNNsQA4dj4kbXIgsZCngeNuJfYSuJuPpqmw=\""
+          "Value": "W/\"fUtt6aWYo0+DOWf1Pw6gM7tQ/DwM+tqx9ybNQU/2A4A=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "s4lkzlf72y"
+          "Value": "nbqlcode15"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-/M6O93OIbNNsQA4dj4kbXIgsZCngeNuJfYSuJuPpqmw="
+          "Value": "sha256-fUtt6aWYo0+DOWf1Pw6gM7tQ/DwM+tqx9ybNQU/2A4A="
         },
         {
           "Name": "label",
@@ -71235,8 +70937,8 @@
       ]
     },
     {
-      "Route": "_framework/TaskManagment.Core.s4lkzlf72y.wasm.gz",
-      "AssetFile": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\obj\\Debug\\net9.0\\compressed\\pe2afqw3uy-s4lkzlf72y.gz",
+      "Route": "_framework/TaskManagment.Core.nbqlcode15.wasm.gz",
+      "AssetFile": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\obj\\Debug\\net9.0\\compressed\\pe2afqw3uy-nbqlcode15.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -71253,7 +70955,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5420"
+          "Value": "5419"
         },
         {
           "Name": "Content-Type",
@@ -71261,11 +70963,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"EirbF26LINM3xFa99THw5bS29f5g3r7r29XjCyamNOk=\""
+          "Value": "\"l/biExyG6lN7Xxy3zJbOtxbtXDpNwbkVr3EOGXsfv/o=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 18:03:19 GMT"
+          "Value": "Mon, 24 Mar 2025 19:29:01 GMT"
         },
         {
           "Name": "Vary",
@@ -71275,11 +70977,11 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "s4lkzlf72y"
+          "Value": "nbqlcode15"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-EirbF26LINM3xFa99THw5bS29f5g3r7r29XjCyamNOk="
+          "Value": "sha256-l/biExyG6lN7Xxy3zJbOtxbtXDpNwbkVr3EOGXsfv/o="
         },
         {
           "Name": "label",
@@ -71288,6 +70990,304 @@
       ]
     },
     {
+      "Route": "_framework/TaskManagment.Core.pdb",
+      "AssetFile": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\bin\\Debug\\net9.0\\wwwroot\\_framework\\TaskManagment.Core.pdb",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14948"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wXvEPmhe2Exp500nXywlFW6q0aZI4yCWszRlULlQgSc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 19:28:53 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wXvEPmhe2Exp500nXywlFW6q0aZI4yCWszRlULlQgSc="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/TaskManagment.Core.pdb",
+      "AssetFile": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\obj\\Debug\\net9.0\\compressed\\1ha0u8cdjl-tlju9tcv9f.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000123624675"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8088"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4AcuJhaKvwJFqtf1Gz6MWl6CEj2hZ4SzIziPUEP55Uc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 19:29:01 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"wXvEPmhe2Exp500nXywlFW6q0aZI4yCWszRlULlQgSc=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wXvEPmhe2Exp500nXywlFW6q0aZI4yCWszRlULlQgSc="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/TaskManagment.Core.pdb.gz",
+      "AssetFile": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\obj\\Debug\\net9.0\\compressed\\1ha0u8cdjl-tlju9tcv9f.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8088"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4AcuJhaKvwJFqtf1Gz6MWl6CEj2hZ4SzIziPUEP55Uc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 19:29:01 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4AcuJhaKvwJFqtf1Gz6MWl6CEj2hZ4SzIziPUEP55Uc="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/TaskManagment.Core.tlju9tcv9f.pdb",
+      "AssetFile": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\bin\\Debug\\net9.0\\wwwroot\\_framework\\TaskManagment.Core.pdb",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14948"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wXvEPmhe2Exp500nXywlFW6q0aZI4yCWszRlULlQgSc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 19:28:53 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tlju9tcv9f"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wXvEPmhe2Exp500nXywlFW6q0aZI4yCWszRlULlQgSc="
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/TaskManagment.Core.pdb"
+        }
+      ]
+    },
+    {
+      "Route": "_framework/TaskManagment.Core.tlju9tcv9f.pdb",
+      "AssetFile": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\obj\\Debug\\net9.0\\compressed\\1ha0u8cdjl-tlju9tcv9f.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000123624675"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8088"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4AcuJhaKvwJFqtf1Gz6MWl6CEj2hZ4SzIziPUEP55Uc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 19:29:01 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"wXvEPmhe2Exp500nXywlFW6q0aZI4yCWszRlULlQgSc=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tlju9tcv9f"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wXvEPmhe2Exp500nXywlFW6q0aZI4yCWszRlULlQgSc="
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/TaskManagment.Core.pdb"
+        }
+      ]
+    },
+    {
+      "Route": "_framework/TaskManagment.Core.tlju9tcv9f.pdb.gz",
+      "AssetFile": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\obj\\Debug\\net9.0\\compressed\\1ha0u8cdjl-tlju9tcv9f.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8088"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4AcuJhaKvwJFqtf1Gz6MWl6CEj2hZ4SzIziPUEP55Uc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 19:29:01 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tlju9tcv9f"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4AcuJhaKvwJFqtf1Gz6MWl6CEj2hZ4SzIziPUEP55Uc="
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/TaskManagment.Core.pdb.gz"
+        }
+      ]
+    },
+    {
       "Route": "_framework/TaskManagment.Core.wasm",
       "AssetFile": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\bin\\Debug\\net9.0\\wwwroot\\_framework\\TaskManagment.Core.wasm",
       "Selectors": [],
@@ -71310,28 +71310,28 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"/M6O93OIbNNsQA4dj4kbXIgsZCngeNuJfYSuJuPpqmw=\""
+          "Value": "\"fUtt6aWYo0+DOWf1Pw6gM7tQ/DwM+tqx9ybNQU/2A4A=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 18:03:18 GMT"
+          "Value": "Mon, 24 Mar 2025 19:28:59 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-/M6O93OIbNNsQA4dj4kbXIgsZCngeNuJfYSuJuPpqmw="
+          "Value": "sha256-fUtt6aWYo0+DOWf1Pw6gM7tQ/DwM+tqx9ybNQU/2A4A="
         }
       ]
     },
     {
       "Route": "_framework/TaskManagment.Core.wasm",
-      "AssetFile": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\obj\\Debug\\net9.0\\compressed\\pe2afqw3uy-s4lkzlf72y.gz",
+      "AssetFile": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\obj\\Debug\\net9.0\\compressed\\pe2afqw3uy-nbqlcode15.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000184467810"
+          "Quality": "0.000184501845"
         }
       ],
       "ResponseHeaders": [
@@ -71349,15 +71349,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5420"
+          "Value": "5419"
         },
         {
           "Name": "ETag",
-          "Value": "\"EirbF26LINM3xFa99THw5bS29f5g3r7r29XjCyamNOk=\""
+          "Value": "\"l/biExyG6lN7Xxy3zJbOtxbtXDpNwbkVr3EOGXsfv/o=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 18:03:19 GMT"
+          "Value": "Mon, 24 Mar 2025 19:29:01 GMT"
         },
         {
           "Name": "Vary",
@@ -71369,19 +71369,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"/M6O93OIbNNsQA4dj4kbXIgsZCngeNuJfYSuJuPpqmw=\""
+          "Value": "W/\"fUtt6aWYo0+DOWf1Pw6gM7tQ/DwM+tqx9ybNQU/2A4A=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-/M6O93OIbNNsQA4dj4kbXIgsZCngeNuJfYSuJuPpqmw="
+          "Value": "sha256-fUtt6aWYo0+DOWf1Pw6gM7tQ/DwM+tqx9ybNQU/2A4A="
         }
       ]
     },
     {
       "Route": "_framework/TaskManagment.Core.wasm.gz",
-      "AssetFile": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\obj\\Debug\\net9.0\\compressed\\pe2afqw3uy-s4lkzlf72y.gz",
+      "AssetFile": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\obj\\Debug\\net9.0\\compressed\\pe2afqw3uy-nbqlcode15.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -71398,7 +71398,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5420"
+          "Value": "5419"
         },
         {
           "Name": "Content-Type",
@@ -71406,11 +71406,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"EirbF26LINM3xFa99THw5bS29f5g3r7r29XjCyamNOk=\""
+          "Value": "\"l/biExyG6lN7Xxy3zJbOtxbtXDpNwbkVr3EOGXsfv/o=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 18:03:19 GMT"
+          "Value": "Mon, 24 Mar 2025 19:29:01 GMT"
         },
         {
           "Name": "Vary",
@@ -71420,7 +71420,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-EirbF26LINM3xFa99THw5bS29f5g3r7r29XjCyamNOk="
+          "Value": "sha256-l/biExyG6lN7Xxy3zJbOtxbtXDpNwbkVr3EOGXsfv/o="
         }
       ]
     },

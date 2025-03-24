@@ -2,7 +2,7 @@
 
 namespace TaskManagment.Core.Entities.Auth;
 
-public class LoginRequest
+public class LogRequest
 {
     [Required]
     [EmailAddress]

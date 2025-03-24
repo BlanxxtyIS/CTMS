@@ -9,7 +9,7 @@
     "Parameters": [
       {
         "Name": "request",
-        "Type": "System.String",
+        "Type": "TaskManagment.Core.Entities.Auth.LogRequest",
         "IsRequired": true
       }
     ],

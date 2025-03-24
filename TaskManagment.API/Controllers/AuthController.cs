@@ -20,16 +20,19 @@ public class AuthController : ControllerBase
         _context = context;
     }
 
-    [HttpPost("login")] 
-    public IActionResult Login([FromBody] string request)
+    [HttpPost("login")]
+    public IActionResult Login([FromBody] LogRequest request)
     {
-        if (request == "test")
+        var user = _context.Users.FirstOrDefault(u =>
+            u.Email == request.Email || u.PasswordHash == request.Password);
+
+        if (user == null)
         {
-            var token = _tokenService.GenerateToken(request, new[] { "User" });
-            return Ok(new { token });
+            return Unauthorized();
         }
 
-        return Unauthorized();
+        var token = _tokenService.GenerateToken(user.Username, new[] { "User" });
+        return Ok(new { token });
     }
 
     [HttpPost("register")]
