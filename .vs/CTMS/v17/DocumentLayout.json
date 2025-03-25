@@ -198,8 +198,7 @@
               "RelativeToolTip": "TaskManagment.Infrastructure\\Data\\Configurations\\UserConfiguration.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAYwDMAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T20:53:50.386Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-19T20:53:50.386Z"
             },
             {
               "$type": "Document",
@@ -221,7 +220,7 @@
               "RelativeDocumentMoniker": "TaskManagment.WEB\\Pages\\LoginPage.razor",
               "ToolTip": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\Pages\\LoginPage.razor",
               "RelativeToolTip": "TaskManagment.WEB\\Pages\\LoginPage.razor",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAADQAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAD0AAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-20T17:19:14.154Z",
               "EditorCaption": ""
@@ -236,8 +235,7 @@
               "RelativeToolTip": "TaskManagment.WEB\\Pages\\RegisterPage.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-20T17:19:22.911Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-20T17:19:22.911Z"
             },
             {
               "$type": "Document",
@@ -249,8 +247,7 @@
               "RelativeToolTip": "TaskManagment.API\\Controllers\\AuthController.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAvwBkAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T14:39:11.047Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-20T14:39:11.047Z"
             },
             {
               "$type": "Document",
@@ -262,8 +259,7 @@
               "RelativeToolTip": "TaskManagment.Core\\Entities\\Auth\\LogRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T15:03:23.962Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-20T15:03:23.962Z"
             },
             {
               "$type": "Document",
@@ -287,8 +283,7 @@
               "RelativeToolTip": "TaskManagment.API\\Program.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T20:27:25.42Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-19T20:27:25.42Z"
             },
             {
               "$type": "Document",
@@ -300,8 +295,7 @@
               "RelativeToolTip": "TaskManagment.Infrastructure\\Authentication\\JwtTokenService.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAqwCgAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T15:12:32.439Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-20T15:12:32.439Z"
             },
             {
               "$type": "Document",
@@ -325,8 +319,7 @@
               "RelativeToolTip": "TaskManagment.WEB\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T17:17:27.185Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-20T17:17:27.185Z"
             },
             {
               "$type": "Document",
