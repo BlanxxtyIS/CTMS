@@ -14,11 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TaskManagment.Applications")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-<<<<<<< HEAD
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+baa9460f1367bc9d3843c0ebf7106b986e960797")]
-=======
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e3d77a017e8810d83252d8a4ddc209ebae7bd5b3")]
->>>>>>> JwtTokenAdded
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fc1e381d45afe3bb8127a8c0673a5f634f3b9367")]
 [assembly: System.Reflection.AssemblyProductAttribute("TaskManagment.Applications")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TaskManagment.Applications")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

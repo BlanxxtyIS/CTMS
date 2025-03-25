@@ -13,3 +13,9 @@ C:\Users\Zver\Desktop\HomePetProjects\CTMS\TaskManagment.WEB\obj\Debug\net9.0\st
 C:\Users\Zver\Desktop\HomePetProjects\CTMS\TaskManagment.WEB\obj\Debug\net9.0\staticwebassets.build.json
 C:\Users\Zver\Desktop\HomePetProjects\CTMS\TaskManagment.WEB\obj\Debug\net9.0\staticwebassets.build.json
 C:\Users\Zver\Desktop\HomePetProjects\CTMS\TaskManagment.WEB\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Zver\Desktop\HomePetProjects\CTMS\TaskManagment.WEB\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Zver\Desktop\HomePetProjects\CTMS\TaskManagment.WEB\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Zver\Desktop\HomePetProjects\CTMS\TaskManagment.WEB\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Zver\Desktop\HomePetProjects\CTMS\TaskManagment.WEB\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Zver\Desktop\HomePetProjects\CTMS\TaskManagment.WEB\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Zver\Desktop\HomePetProjects\CTMS\TaskManagment.WEB\obj\Debug\net9.0\staticwebassets.build.json
