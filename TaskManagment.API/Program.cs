@@ -5,14 +5,15 @@ using Microsoft.IdentityModel.Tokens;
 using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using System.Text;
-using TaskManagment.API.Configuration;
+
 using TaskManagment.Infrastructure.Authentication;
+using TaskManagment.Infrastructure.Configuration;
 using TaskManagment.Infrastructure.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddInfrastructure(builder.Configuration);
 
-builder.Services.AddJwtAuthentication(builder.Configuration);
+
 builder.Services.AddAuthorization();
 
 var connString = builder.Configuration.GetConnectionString("DefaultConnection");
@@ -27,6 +28,7 @@ var app = builder.Build();
 
 if (app.Environment.IsDevelopment())
 {
+    app.UseWebAssemblyDebugging();
     app.MapOpenApi();
 }
 
@@ -35,10 +37,16 @@ app.UseHttpsRedirection();
 app.UseAuthentication();
 app.UseAuthorization();
 
+app.UseBlazorFrameworkFiles();
+app.UseStaticFiles();
+app.UseRouting();
+
 app.MapControllers();
 
 app.Map("/test", () => "Give me the loot");
 app.Map("/data", [Authorize] () => new { message = "Happy Hacking!" });
+
+app.MapFallbackToFile("index.html");
 
 app.Run();
 

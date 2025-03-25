@@ -5,20 +5,12 @@
       "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
     },
     {
-      "Id": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\obj\\Debug\\net9.0\\scopedcss\\bundle\\TaskManagment.WEB.styles.css",
-      "PackagePath": "staticwebassets\\TaskManagment.WEB.styles.css"
+      "Id": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\obj\\Debug\\net9.0\\scopedcss\\bundle\\TaskManagment.Client.styles.css",
+      "PackagePath": "staticwebassets\\TaskManagment.Client.styles.css"
     },
     {
       "Id": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\wwwroot\\css\\app.css",
       "PackagePath": "staticwebassets\\css\\app.css"
-    },
-    {
-      "Id": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\wwwroot\\favicon.png",
-      "PackagePath": "staticwebassets\\favicon.png"
-    },
-    {
-      "Id": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\wwwroot\\icon-192.png",
-      "PackagePath": "staticwebassets\\icon-192.png"
     },
     {
       "Id": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\wwwroot\\index.html",
@@ -201,28 +193,24 @@
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\wwwroot\\sample-data\\weather.json",
-      "PackagePath": "staticwebassets\\sample-data\\weather.json"
-    },
-    {
-      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.TaskManagment.WEB.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.TaskManagment.Client.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
-      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.TaskManagment.WEB.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.TaskManagment.Client.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
     {
-      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.TaskManagment.WEB.props",
-      "PackagePath": "build\\TaskManagment.WEB.props"
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.TaskManagment.Client.props",
+      "PackagePath": "build\\TaskManagment.Client.props"
     },
     {
-      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.TaskManagment.WEB.props",
-      "PackagePath": "buildMultiTargeting\\TaskManagment.WEB.props"
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.TaskManagment.Client.props",
+      "PackagePath": "buildMultiTargeting\\TaskManagment.Client.props"
     },
     {
-      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.TaskManagment.WEB.props",
-      "PackagePath": "buildTransitive\\TaskManagment.WEB.props"
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.TaskManagment.Client.props",
+      "PackagePath": "buildTransitive\\TaskManagment.Client.props"
     }
   ],
   "ElementsToRemove": []

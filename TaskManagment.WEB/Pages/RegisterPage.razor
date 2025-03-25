@@ -1,0 +1,79 @@
+﻿@page "/register"
+@inject HttpClient Http
+@inject NavigationManager NavTo
+
+<div class="container">
+    <div class="card">
+        <a class="login">Register</a>
+        <div class="inputBox">
+            <input type="text" required="required" @bind="username">
+            <span class="user">Username</span>
+        </div>
+
+        <div class="inputBox">
+            <input type="email" required="required" @bind="email">
+            <span>Confirm Email</span>
+        </div>
+
+        <div class="inputBox">
+            <input type="password" required="required" @bind="password">
+            <span>Password</span>
+        </div>
+
+        <div class="inputBox">
+            <input type="password" required="required" @bind="confirmPassword">
+            <span>Confirm Password</span>
+        </div>
+
+        <button class="enter" @onclick="HandleRegistration">Enter</button>
+    </div>
+</div>
+
+@if (!string.IsNullOrEmpty(errorMessage)) {
+    <div class="error-message">
+        <p>@errorMessage</p>
+        <p>Heeloo</p>
+    </div>
+}
+
+<button @onclick="HandleRegistration">GO</button>
+
+@code {
+    private string? username;
+    private string? email;
+    private string? password;
+    private string? confirmPassword;
+    private string? errorMessage = "test";
+
+    private async Task HandleRegistration() {
+        if (string.IsNullOrEmpty(username) || string.IsNullOrEmpty(email) ||
+            string.IsNullOrEmpty(password) || string.IsNullOrEmpty(confirmPassword)) {
+            errorMessage = "Заполните все поля";
+            return;
+        }
+        errorMessage = "НАЖАЛ НАЖАЛ";
+
+        if (password != confirmPassword) {
+            errorMessage = "Пароли не совпадают";
+            return;
+        }
+
+        var registerRequest = new RegRequest()
+            {
+                Username = username,
+                Email = email,
+                Password = password,
+                ConfirmPassword = confirmPassword
+            };
+
+        using var response = await Http.PostAsJsonAsync("api/auth/register", registerRequest);
+
+        if (response.IsSuccessStatusCode) {
+            NavTo.NavigateTo("/login");
+        } 
+        else {
+            var errorContent = await response.Content.ReadAsStringAsync();
+            errorMessage = $"Ошибка регистрации: {errorContent}";
+        }
+    }
+}

@@ -11,7 +11,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskManagment.Infrastructur
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskManagment.Applications", "TaskManagment.Applications\TaskManagment.Applications.csproj", "{6961B493-9C47-4118-A862-068EBA2BDCE1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskManagment.WEB", "TaskManagment.WEB\TaskManagment.WEB.csproj", "{275ED01B-EEB3-4979-A1EA-8EC13AB72A29}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskManagment.Client", "TaskManagment.WEB\TaskManagment.Client.csproj", "{275ED01B-EEB3-4979-A1EA-8EC13AB72A29}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

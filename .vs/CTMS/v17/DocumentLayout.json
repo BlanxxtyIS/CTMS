@@ -5,14 +5,17 @@
     {
       "AbsoluteMoniker": "D:0:0:{FB0319F0-E7D5-4975-A43D-DD75FFC8E5C2}|TaskManagment.API\\TaskManagment.API.csproj|c:\\users\\zver\\desktop\\homepetprojects\\ctms\\taskmanagment.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FB0319F0-E7D5-4975-A43D-DD75FFC8E5C2}|TaskManagment.API\\TaskManagment.API.csproj|solutionrelative:taskmanagment.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+<<<<<<< HEAD
     },
     {
       "AbsoluteMoniker": "D:0:0:{A24D35FD-9980-46C4-ACFB-01C9FD13F98D}|TaskManagment.Core\\TaskManagment.Core.csproj|c:\\users\\zver\\desktop\\homepetprojects\\ctms\\taskmanagment.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A24D35FD-9980-46C4-ACFB-01C9FD13F98D}|TaskManagment.Core\\TaskManagment.Core.csproj|solutionrelative:taskmanagment.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
+>>>>>>> JwtTokenAdded
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB0319F0-E7D5-4975-A43D-DD75FFC8E5C2}|TaskManagment.API\\TaskManagment.API.csproj|c:\\users\\zver\\desktop\\homepetprojects\\ctms\\taskmanagment.api\\configuration\\authenticationconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB0319F0-E7D5-4975-A43D-DD75FFC8E5C2}|TaskManagment.API\\TaskManagment.API.csproj|solutionrelative:taskmanagment.api\\configuration\\authenticationconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A24D35FD-9980-46C4-ACFB-01C9FD13F98D}|TaskManagment.Core\\TaskManagment.Core.csproj|c:\\users\\zver\\desktop\\homepetprojects\\ctms\\taskmanagment.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A24D35FD-9980-46C4-ACFB-01C9FD13F98D}|TaskManagment.Core\\TaskManagment.Core.csproj|solutionrelative:taskmanagment.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FB0319F0-E7D5-4975-A43D-DD75FFC8E5C2}|TaskManagment.API\\TaskManagment.API.csproj|c:\\users\\zver\\desktop\\homepetprojects\\ctms\\taskmanagment.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -21,10 +24,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A5A9E819-2536-4A2E-A5E0-C60E77E144D7}|TaskManagment.Infrastructure\\TaskManagment.Infrastructure.csproj|c:\\users\\zver\\desktop\\homepetprojects\\ctms\\taskmanagment.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A5A9E819-2536-4A2E-A5E0-C60E77E144D7}|TaskManagment.Infrastructure\\TaskManagment.Infrastructure.csproj|solutionrelative:taskmanagment.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5A9E819-2536-4A2E-A5E0-C60E77E144D7}|TaskManagment.Infrastructure\\TaskManagment.Infrastructure.csproj|c:\\users\\zver\\desktop\\homepetprojects\\ctms\\taskmanagment.infrastructure\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5A9E819-2536-4A2E-A5E0-C60E77E144D7}|TaskManagment.Infrastructure\\TaskManagment.Infrastructure.csproj|solutionrelative:taskmanagment.infrastructure\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A5A9E819-2536-4A2E-A5E0-C60E77E144D7}|TaskManagment.Infrastructure\\TaskManagment.Infrastructure.csproj|c:\\users\\zver\\desktop\\homepetprojects\\ctms\\taskmanagment.infrastructure\\data\\configurations\\baseentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -120,6 +119,7 @@
               "RelativeDocumentMoniker": "TaskManagment.API\\Controllers\\AuthController.cs",
               "ToolTip": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.API\\Controllers\\AuthController.cs",
               "RelativeToolTip": "TaskManagment.API\\Controllers\\AuthController.cs",
+<<<<<<< HEAD
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-25T18:07:09.103Z",
@@ -152,6 +152,16 @@
             {
               "$type": "Document",
               "DocumentIndex": 13,
+=======
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T18:07:09.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+>>>>>>> JwtTokenAdded
               "Title": "TaskPriority.cs",
               "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.Core\\Enums\\TaskPriority.cs",
               "RelativeDocumentMoniker": "TaskManagment.Core\\Enums\\TaskPriority.cs",
@@ -163,7 +173,11 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 14,
+=======
+              "DocumentIndex": 12,
+>>>>>>> JwtTokenAdded
               "Title": "ProjectRole.cs",
               "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.Core\\Enums\\ProjectRole.cs",
               "RelativeDocumentMoniker": "TaskManagment.Core\\Enums\\ProjectRole.cs",
@@ -175,7 +189,11 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 10,
+=======
+              "DocumentIndex": 8,
+>>>>>>> JwtTokenAdded
               "Title": "RoleConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.Infrastructure\\Data\\Configurations\\RoleConfiguration.cs",
               "RelativeDocumentMoniker": "TaskManagment.Infrastructure\\Data\\Configurations\\RoleConfiguration.cs",
@@ -187,7 +205,11 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 7,
+=======
+              "DocumentIndex": 5,
+>>>>>>> JwtTokenAdded
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.Core\\Entities\\BaseEntity.cs",
               "RelativeDocumentMoniker": "TaskManagment.Core\\Entities\\BaseEntity.cs",
@@ -199,7 +221,11 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 8,
+=======
+              "DocumentIndex": 6,
+>>>>>>> JwtTokenAdded
               "Title": "ProjectMember.cs",
               "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.Core\\Entities\\ProjectMember.cs",
               "RelativeDocumentMoniker": "TaskManagment.Core\\Entities\\ProjectMember.cs",
@@ -211,7 +237,11 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 11,
+=======
+              "DocumentIndex": 9,
+>>>>>>> JwtTokenAdded
               "Title": "Project.cs",
               "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.Core\\Entities\\Project.cs",
               "RelativeDocumentMoniker": "TaskManagment.Core\\Entities\\Project.cs",
@@ -243,12 +273,15 @@
               "RelativeToolTip": "TaskManagment.Core\\Entities\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T20:58:01.09Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-19T20:58:01.09Z"
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 12,
+=======
+              "DocumentIndex": 10,
+>>>>>>> JwtTokenAdded
               "Title": "TaskStatus.cs",
               "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.Core\\Enums\\TaskStatus.cs",
               "RelativeDocumentMoniker": "TaskManagment.Core\\Enums\\TaskStatus.cs",
@@ -260,7 +293,11 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 9,
+=======
+              "DocumentIndex": 7,
+>>>>>>> JwtTokenAdded
               "Title": "Role.cs",
               "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.Core\\Entities\\Role.cs",
               "RelativeDocumentMoniker": "TaskManagment.Core\\Entities\\Role.cs",
@@ -284,7 +321,11 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 6,
+=======
+              "DocumentIndex": 4,
+>>>>>>> JwtTokenAdded
               "Title": "BaseEntityConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.Infrastructure\\Data\\Configurations\\BaseEntityConfiguration.cs",
               "RelativeDocumentMoniker": "TaskManagment.Infrastructure\\Data\\Configurations\\BaseEntityConfiguration.cs",
@@ -296,7 +337,11 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 15,
+=======
+              "DocumentIndex": 13,
+>>>>>>> JwtTokenAdded
               "Title": "ProjectMemberConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.Infrastructure\\Data\\Configurations\\ProjectMemberConfiguration.cs",
               "RelativeDocumentMoniker": "TaskManagment.Infrastructure\\Data\\Configurations\\ProjectMemberConfiguration.cs",
@@ -308,7 +353,11 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 16,
+=======
+              "DocumentIndex": 14,
+>>>>>>> JwtTokenAdded
               "Title": "TaskCommentConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.Infrastructure\\Data\\Configurations\\TaskCommentConfiguration.cs",
               "RelativeDocumentMoniker": "TaskManagment.Infrastructure\\Data\\Configurations\\TaskCommentConfiguration.cs",
@@ -320,7 +369,11 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 17,
+=======
+              "DocumentIndex": 15,
+>>>>>>> JwtTokenAdded
               "Title": "UserConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.Infrastructure\\Data\\Configurations\\UserConfiguration.cs",
               "RelativeDocumentMoniker": "TaskManagment.Infrastructure\\Data\\Configurations\\UserConfiguration.cs",
@@ -332,7 +385,11 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 18,
+=======
+              "DocumentIndex": 16,
+>>>>>>> JwtTokenAdded
               "Title": "UserRoleConfigurattion.cs",
               "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.Infrastructure\\Data\\Configurations\\UserRoleConfigurattion.cs",
               "RelativeDocumentMoniker": "TaskManagment.Infrastructure\\Data\\Configurations\\UserRoleConfigurattion.cs",
@@ -344,7 +401,11 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 19,
+=======
+              "DocumentIndex": 17,
+>>>>>>> JwtTokenAdded
               "Title": "WorkTaskConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.Infrastructure\\Data\\Configurations\\WorkTaskConfiguration.cs",
               "RelativeDocumentMoniker": "TaskManagment.Infrastructure\\Data\\Configurations\\WorkTaskConfiguration.cs",
@@ -356,7 +417,11 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 20,
+=======
+              "DocumentIndex": 18,
+>>>>>>> JwtTokenAdded
               "Title": "TaskComment.cs",
               "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.Core\\Entities\\TaskComment.cs",
               "RelativeDocumentMoniker": "TaskManagment.Core\\Entities\\TaskComment.cs",
@@ -368,7 +433,11 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 21,
+=======
+              "DocumentIndex": 19,
+>>>>>>> JwtTokenAdded
               "Title": "UserRole.cs",
               "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.Core\\Entities\\UserRole.cs",
               "RelativeDocumentMoniker": "TaskManagment.Core\\Entities\\UserRole.cs",
@@ -380,7 +449,11 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 22,
+=======
+              "DocumentIndex": 20,
+>>>>>>> JwtTokenAdded
               "Title": "WorkTask.cs",
               "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.Core\\Entities\\WorkTask.cs",
               "RelativeDocumentMoniker": "TaskManagment.Core\\Entities\\WorkTask.cs",
@@ -392,7 +465,11 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 23,
+=======
+              "DocumentIndex": 21,
+>>>>>>> JwtTokenAdded
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.API\\Program.cs",
               "RelativeDocumentMoniker": "TaskManagment.API\\Program.cs",
