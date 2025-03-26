@@ -36,8 +36,20 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW5QYWdlLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Zver/Desktop/HomePetProjects/CTMS/TaskManagment.WEB/Pages/ProjectsPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvamVjdHNQYWdlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Zver/Desktop/HomePetProjects/CTMS/TaskManagment.WEB/Pages/RegisterPage.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVnaXN0ZXJQYWdlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Zver/Desktop/HomePetProjects/CTMS/TaskManagment.WEB/Pages/TasksPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGFza3NQYWdlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Zver/Desktop/HomePetProjects/CTMS/TaskManagment.WEB/Pages/UserProfilePage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlclByb2ZpbGVQYWdlLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Zver/Desktop/HomePetProjects/CTMS/TaskManagment.WEB/_Imports.razor]

@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Identity.Data;
 using Microsoft.AspNetCore.Mvc;
-using TaskManagement.Application.Interfaces.Services;
+using TaskManagment.Applications.Services;
 using TaskManagment.Core.Entities;
 using TaskManagment.Core.Entities.Auth;
 using TaskManagment.Infrastructure.Data;

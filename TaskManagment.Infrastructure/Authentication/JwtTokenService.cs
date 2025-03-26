@@ -3,8 +3,9 @@ using Microsoft.Extensions.Options;
 using Microsoft.IdentityModel.Tokens;
 using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
+using System.Security.Cryptography;
 using System.Text;
-using TaskManagement.Application.Interfaces.Services;
+using TaskManagment.Applications.Services;
 
 namespace TaskManagment.Infrastructure.Authentication;
 
@@ -17,15 +18,16 @@ public class JwtTokenService : IJwtService
         _jwtSettings = jwtSettings.Value;
     }
 
-    public string GenerateToken(string username, IEnumerable<string> roles)
+    /// <summary>
+    /// Создает JWT на основе переданных claims
+    /// </summary>
+    /// <param name="claims"></param>
+    /// <returns></returns>
+    public string GenerateAccessToken(IEnumerable<Claim> claims)
     {
-        var claims = new List<Claim> 
-        { 
-            new Claim(ClaimTypes.Name, username) 
-        };
 
         //Создание JWT-токена
-        var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(_jwtSettings.SecretKey));
+        var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(_jwtSettings.Secret));
         var credentials = new SigningCredentials
                     (key, SecurityAlgorithms.HmacSha256);
 
@@ -33,10 +35,22 @@ public class JwtTokenService : IJwtService
             issuer: _jwtSettings.Issuer, // кто создал токен
             audience: _jwtSettings.Audience, // для кого токен
             claims: claims, // данные пользователя
-            expires: DateTime.UtcNow.AddMinutes(_jwtSettings.ExpirationMinutes), // время истечения
+            expires: DateTime.UtcNow.AddMinutes(_jwtSettings.AccessTokenLifetime), // время истечения
             signingCredentials: credentials // подпись создается с помощью серктеного ключа
         ); 
 
         return new JwtSecurityTokenHandler().WriteToken(jwt);
+    }
+
+    /// <summary>
+    /// Генерирует случайную стркоу для Refresh Token
+    /// </summary>
+    /// <returns></returns>
+    public string GenerateRefreshToken()
+    {
+        var randomBytes = new byte[32];
+        using var rng = RandomNumberGenerator.Create();
+        rng.GetBytes(randomBytes);
+        return Convert.ToBase64String(randomBytes);
     }
 }
