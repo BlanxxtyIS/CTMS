@@ -13,6 +13,14 @@
       "PackagePath": "staticwebassets\\css\\app.css"
     },
     {
+      "Id": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\wwwroot\\images\\logo.jpg",
+      "PackagePath": "staticwebassets\\images\\logo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\wwwroot\\images\\navbar-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\navbar-bg.jpg"
+    },
+    {
       "Id": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },

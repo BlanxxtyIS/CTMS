@@ -1,6 +1,24 @@
 ﻿@page "/tasks"
+@inject HttpClient Http
+
 <h3>ЗАДАЧИ</h3>
 
-@code {
+@if (_tasks != null) {
+    @foreach (var task in _tasks) {
+        <p>@task.Title</p>
+    }
+}
 
+@code {
+    private IEnumerable<WorkTask>? _tasks;
+
+    protected override async Task OnInitializedAsync()
+    {
+        try {
+            _tasks = await Http.GetFromJsonAsync<IEnumerable<WorkTask>>("api/task/getTasks");
+        }
+        catch (Exception ex) {
+            Console.WriteLine($"Ошибка на странице задач, при загрузке задач: {ex.Message}");
+        }
+    }
 }

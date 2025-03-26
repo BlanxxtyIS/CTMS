@@ -30,5 +30,25 @@
       }
     ],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TaskManagment.API.Controllers.ProjectController",
+    "Method": "GetProject",
+    "RelativePath": "api/Project/getProjects",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TaskManagment.API.Controllers.TaskController",
+    "Method": "GetTasks",
+    "RelativePath": "api/Task/getTasks",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
   }
 ]

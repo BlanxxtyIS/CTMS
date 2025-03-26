@@ -1,7 +1,23 @@
 ﻿@page "/projects"
+@inject HttpClient Http
 
 <h3>ПРОЕКТЫ</h3>
 
-@code {
+@if (_projects != null) {
+    @foreach (var project in _projects) {
+        <p>@project.Name</p>
+    }
+}
 
+@code {
+    private IEnumerable<Project>? _projects;
+
+    protected override async Task OnInitializedAsync() {
+        try {
+            _projects = await Http.GetFromJsonAsync<IEnumerable<Project>>("api/project/getProjects");
+        }
+        catch (HttpRequestException ex) {
+            Console.WriteLine($"Ошибка при загрузке проектов {ex.Message}");
+        }
+    }
 }

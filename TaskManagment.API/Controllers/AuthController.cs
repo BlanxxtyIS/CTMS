@@ -41,7 +41,7 @@ public class AuthController : ControllerBase
         var token = _tokenService.GenerateAccessToken(claims);
         return Ok(new { token });
     }
-
+ 
     [HttpPost("register")]
     public async Task<IActionResult> Register([FromBody] RegRequest request)
     {
