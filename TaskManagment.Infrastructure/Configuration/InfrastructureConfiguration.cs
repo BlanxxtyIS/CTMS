@@ -3,7 +3,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.IdentityModel.Tokens;
 using System.Text;
-using TaskManagement.Application.Interfaces.Services;
+using TaskManagment.Applications.Services;
 using TaskManagment.Infrastructure.Authentication;
 
 namespace TaskManagment.Infrastructure.Configuration;
