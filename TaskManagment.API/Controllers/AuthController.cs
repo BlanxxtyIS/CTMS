@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Identity.Data;
 using Microsoft.AspNetCore.Mvc;
+using System.Security.Claims;
 using TaskManagment.Applications.Services;
 using TaskManagment.Core.Entities;
 using TaskManagment.Core.Entities.Auth;
@@ -31,7 +32,13 @@ public class AuthController : ControllerBase
             return Unauthorized();
         }
 
-        var token = _tokenService.GenerateToken(user.Username, new[] { "User" });
+        var claims = new List<Claim>
+        {
+            new Claim(ClaimTypes.Name, user.Username),
+            new Claim(ClaimTypes.Role, "User")
+        };
+
+        var token = _tokenService.GenerateAccessToken(claims);
         return Ok(new { token });
     }
 

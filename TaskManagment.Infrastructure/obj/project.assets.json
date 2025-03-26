@@ -1051,6 +1051,9 @@
       "TaskManagment.Applications/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "TaskManagment.Core": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/TaskManagment.Applications.dll": {}
         },

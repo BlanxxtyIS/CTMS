@@ -37,7 +37,7 @@ public static class InfrastructureConfiguration
                 ValidateLifetime = true,
                 ValidateIssuerSigningKey = true,
                 IssuerSigningKey = new SymmetricSecurityKey(
-                    Encoding.UTF8.GetBytes(jwtSettings.SecretKey))
+                    Encoding.UTF8.GetBytes(jwtSettings.Secret))
             };
         });
 

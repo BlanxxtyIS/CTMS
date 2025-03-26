@@ -705,6 +705,9 @@
       },
       "System.Threading.Channels/7.0.0": {},
       "TaskManagment.Applications/1.0.0": {
+        "dependencies": {
+          "TaskManagment.Core": "1.0.0"
+        },
         "runtime": {
           "TaskManagment.Applications.dll": {
             "assemblyVersion": "1.0.0",

@@ -163,4 +163,3 @@ C:\Users\Zver\Desktop\HomePetProjects\CTMS\TaskManagment.API\obj\Debug\net9.0\re
 C:\Users\Zver\Desktop\HomePetProjects\CTMS\TaskManagment.API\obj\Debug\net9.0\TaskManagment.API.pdb
 C:\Users\Zver\Desktop\HomePetProjects\CTMS\TaskManagment.API\obj\Debug\net9.0\TaskManagment.API.genruntimeconfig.cache
 C:\Users\Zver\Desktop\HomePetProjects\CTMS\TaskManagment.API\obj\Debug\net9.0\ref\TaskManagment.API.dll
-C:\Users\Zver\Desktop\HomePetProjects\CTMS\TaskManagment.API\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
