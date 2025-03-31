@@ -93,11 +93,9 @@ namespace TaskManagment.Infrastructure.Migrations
 
             modelBuilder.Entity("TaskManagment.Core.Entities.RefreshToken", b =>
                 {
-                    b.Property<int>("Id")
+                    b.Property<Guid>("Id")
                         .ValueGeneratedOnAdd()
-                        .HasColumnType("integer");
-
-                    NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("Id"));
+                        .HasColumnType("uuid");
 
                     b.Property<DateTime>("Expires")
                         .HasColumnType("timestamp with time zone");
@@ -109,11 +107,12 @@ namespace TaskManagment.Infrastructure.Migrations
                         .IsRequired()
                         .HasColumnType("text");
 
-                    b.Property<string>("UserId")
-                        .IsRequired()
-                        .HasColumnType("text");
+                    b.Property<Guid>("UserId")
+                        .HasColumnType("uuid");
 
                     b.HasKey("Id");
+
+                    b.HasIndex("UserId");
 
                     b.ToTable("RefreshTokens");
                 });
@@ -365,6 +364,17 @@ namespace TaskManagment.Infrastructure.Migrations
                     b.Navigation("User");
                 });
 
+            modelBuilder.Entity("TaskManagment.Core.Entities.RefreshToken", b =>
+                {
+                    b.HasOne("TaskManagment.Core.Entities.User", "User")
+                        .WithMany("RefreshTokens")
+                        .HasForeignKey("UserId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("User");
+                });
+
             modelBuilder.Entity("TaskManagment.Core.Entities.TaskComment", b =>
                 {
                     b.HasOne("TaskManagment.Core.Entities.User", "Author")
@@ -440,6 +450,8 @@ namespace TaskManagment.Infrastructure.Migrations
                     b.Navigation("Comments");
 
                     b.Navigation("OwnedProjects");
+
+                    b.Navigation("RefreshTokens");
 
                     b.Navigation("UserRoles");
                 });

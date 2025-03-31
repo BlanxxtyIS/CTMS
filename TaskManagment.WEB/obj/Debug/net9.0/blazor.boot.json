@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "TaskManagment.Client",
   "resources": {
-    "hash": "sha256-wyxQQKjU3UfDg+UEJuV6FT7PWvp+jx0TAwC2gV+ztNI=",
+    "hash": "sha256-jR/Z9QjorQsa8a0F4JKZtWdX5xqhbPr14bnCC09zmLw=",
     "fingerprinting": {
       "Microsoft.AspNetCore.Authorization.qe23mgxr71.wasm": "Microsoft.AspNetCore.Authorization.wasm",
       "Microsoft.AspNetCore.Components.flveird317.wasm": "Microsoft.AspNetCore.Components.wasm",
@@ -201,10 +201,10 @@
       "icudt_CJK.tjcz0u77k5.dat": "icudt_CJK.dat",
       "icudt_EFIGS.tptq2av103.dat": "icudt_EFIGS.dat",
       "icudt_no_CJK.lfu7j35m59.dat": "icudt_no_CJK.dat",
-      "TaskManagment.Core.owp6mqi2rs.wasm": "TaskManagment.Core.wasm",
-      "TaskManagment.Core.kig7ygu3rb.pdb": "TaskManagment.Core.pdb",
-      "TaskManagment.Client.3lxq3zcllb.wasm": "TaskManagment.Client.wasm",
-      "TaskManagment.Client.nesfd2fi49.pdb": "TaskManagment.Client.pdb"
+      "TaskManagment.Core.aupy8ldab9.wasm": "TaskManagment.Core.wasm",
+      "TaskManagment.Core.tj059kujm1.pdb": "TaskManagment.Core.pdb",
+      "TaskManagment.Client.cielvaazzl.wasm": "TaskManagment.Client.wasm",
+      "TaskManagment.Client.tln3flyu27.pdb": "TaskManagment.Client.pdb"
     },
     "jsModuleNative": {
       "dotnet.native.hmanx9razn.js": "sha256-d7UNSArplVrX3arY2Kmhxp1wN79ng8hLqIBrkiQ9Gbo="
@@ -414,12 +414,12 @@
       "WindowsBase.377bly7twj.wasm": "sha256-0VmBdMjdc0nZGHDSfaGirT6y3mJTM0qx8eqCUC/rpiE=",
       "mscorlib.o0184ey5ia.wasm": "sha256-2GxNKZQJVJvYMUxSTuXa5V2qxawSMMHZtwG33SKVCZU=",
       "netstandard.hb3h2rr8mk.wasm": "sha256-DWn9+RH/ElZQ6imlYqVwZvir1KTzNwY18AzGmnyiymU=",
-      "TaskManagment.Core.owp6mqi2rs.wasm": "sha256-qObjyzGaABcObkqF9oK2Njs4RewJ+OJD6FjWOASiXlA=",
-      "TaskManagment.Client.3lxq3zcllb.wasm": "sha256-eYT64sYx9P7PW3eAEoo8EC5mm8Nkzsl2cS+QVS7zigU="
+      "TaskManagment.Core.aupy8ldab9.wasm": "sha256-UoN2IeFQAmYmcKyL+cdD7toeVqn6KB5rToTfWSTq2r8=",
+      "TaskManagment.Client.cielvaazzl.wasm": "sha256-THw7XZfDRC68FqF/2zg5OieiCdA5rAa7j4hU/D9yils="
     },
     "pdb": {
-      "TaskManagment.Core.kig7ygu3rb.pdb": "sha256-XJHMNjdpZ6ocQD2zAu454YpFttrKj2GIKlB0jaBpmMc=",
-      "TaskManagment.Client.nesfd2fi49.pdb": "sha256-cd2HHcxHVxqyKqxrR7+fZtDORmx0E58TlZZPeFhlnxs="
+      "TaskManagment.Core.tj059kujm1.pdb": "sha256-Cau7bZ6UyEgoTuJR9x6GFIY+wZrhfDJNgUWhKKEMRdA=",
+      "TaskManagment.Client.tln3flyu27.pdb": "sha256-QR1s4YTBLksOHX4RAL7/Jo8epxTtrQIkGBIqd6FDDJo="
     }
   },
   "cacheBootResources": true,

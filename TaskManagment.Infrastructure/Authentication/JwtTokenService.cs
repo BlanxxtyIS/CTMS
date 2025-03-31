@@ -6,6 +6,7 @@ using System.Security.Claims;
 using System.Security.Cryptography;
 using System.Text;
 using TaskManagment.Applications.Services;
+using TaskManagment.Core.Entities;
 
 namespace TaskManagment.Infrastructure.Authentication;
 
@@ -25,7 +26,6 @@ public class JwtTokenService : IJwtService
     /// <returns></returns>
     public string GenerateAccessToken(IEnumerable<Claim> claims)
     {
-
         //Создание JWT-токена
         var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(_jwtSettings.Secret));
         var credentials = new SigningCredentials

@@ -3,200 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{275ED01B-EEB3-4979-A1EA-8EC13AB72A29}|TaskManagment.WEB\\TaskManagment.Client.csproj|c:\\users\\zver\\desktop\\homepetprojects\\ctms\\taskmanagment.web\\pages\\taskspage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{275ED01B-EEB3-4979-A1EA-8EC13AB72A29}|TaskManagment.WEB\\TaskManagment.Client.csproj|solutionrelative:taskmanagment.web\\pages\\taskspage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{275ED01B-EEB3-4979-A1EA-8EC13AB72A29}|TaskManagment.WEB\\TaskManagment.Client.csproj|c:\\users\\zver\\desktop\\homepetprojects\\ctms\\taskmanagment.web\\pages\\projectspage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{275ED01B-EEB3-4979-A1EA-8EC13AB72A29}|TaskManagment.WEB\\TaskManagment.Client.csproj|solutionrelative:taskmanagment.web\\pages\\projectspage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{275ED01B-EEB3-4979-A1EA-8EC13AB72A29}|TaskManagment.WEB\\TaskManagment.Client.csproj|c:\\users\\zver\\desktop\\homepetprojects\\ctms\\taskmanagment.web\\pages\\registerpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{275ED01B-EEB3-4979-A1EA-8EC13AB72A29}|TaskManagment.WEB\\TaskManagment.Client.csproj|solutionrelative:taskmanagment.web\\pages\\registerpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB0319F0-E7D5-4975-A43D-DD75FFC8E5C2}|TaskManagment.API\\TaskManagment.API.csproj|c:\\users\\zver\\desktop\\homepetprojects\\ctms\\taskmanagment.api\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB0319F0-E7D5-4975-A43D-DD75FFC8E5C2}|TaskManagment.API\\TaskManagment.API.csproj|solutionrelative:taskmanagment.api\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB0319F0-E7D5-4975-A43D-DD75FFC8E5C2}|TaskManagment.API\\TaskManagment.API.csproj|c:\\users\\zver\\desktop\\homepetprojects\\ctms\\taskmanagment.api\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB0319F0-E7D5-4975-A43D-DD75FFC8E5C2}|TaskManagment.API\\TaskManagment.API.csproj|solutionrelative:taskmanagment.api\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A24D35FD-9980-46C4-ACFB-01C9FD13F98D}|TaskManagment.Core\\TaskManagment.Core.csproj|c:\\users\\zver\\desktop\\homepetprojects\\ctms\\taskmanagment.core\\enums\\taskstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A24D35FD-9980-46C4-ACFB-01C9FD13F98D}|TaskManagment.Core\\TaskManagment.Core.csproj|solutionrelative:taskmanagment.core\\enums\\taskstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A24D35FD-9980-46C4-ACFB-01C9FD13F98D}|TaskManagment.Core\\TaskManagment.Core.csproj|c:\\users\\zver\\desktop\\homepetprojects\\ctms\\taskmanagment.core\\entities\\worktask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A24D35FD-9980-46C4-ACFB-01C9FD13F98D}|TaskManagment.Core\\TaskManagment.Core.csproj|solutionrelative:taskmanagment.core\\entities\\worktask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A24D35FD-9980-46C4-ACFB-01C9FD13F98D}|TaskManagment.Core\\TaskManagment.Core.csproj|c:\\users\\zver\\desktop\\homepetprojects\\ctms\\taskmanagment.core\\enums\\taskpriority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A24D35FD-9980-46C4-ACFB-01C9FD13F98D}|TaskManagment.Core\\TaskManagment.Core.csproj|solutionrelative:taskmanagment.core\\enums\\taskpriority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB0319F0-E7D5-4975-A43D-DD75FFC8E5C2}|TaskManagment.API\\TaskManagment.API.csproj|c:\\users\\zver\\desktop\\homepetprojects\\ctms\\taskmanagment.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB0319F0-E7D5-4975-A43D-DD75FFC8E5C2}|TaskManagment.API\\TaskManagment.API.csproj|solutionrelative:taskmanagment.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{275ED01B-EEB3-4979-A1EA-8EC13AB72A29}|TaskManagment.WEB\\TaskManagment.Client.csproj|c:\\users\\zver\\desktop\\homepetprojects\\ctms\\taskmanagment.web\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{275ED01B-EEB3-4979-A1EA-8EC13AB72A29}|TaskManagment.WEB\\TaskManagment.Client.csproj|solutionrelative:taskmanagment.web\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A24D35FD-9980-46C4-ACFB-01C9FD13F98D}|TaskManagment.Core\\TaskManagment.Core.csproj|c:\\users\\zver\\desktop\\homepetprojects\\ctms\\taskmanagment.core\\entities\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A24D35FD-9980-46C4-ACFB-01C9FD13F98D}|TaskManagment.Core\\TaskManagment.Core.csproj|solutionrelative:taskmanagment.core\\entities\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{275ED01B-EEB3-4979-A1EA-8EC13AB72A29}|TaskManagment.WEB\\TaskManagment.Client.csproj|c:\\users\\zver\\desktop\\homepetprojects\\ctms\\taskmanagment.web\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{275ED01B-EEB3-4979-A1EA-8EC13AB72A29}|TaskManagment.WEB\\TaskManagment.Client.csproj|solutionrelative:taskmanagment.web\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{275ED01B-EEB3-4979-A1EA-8EC13AB72A29}|TaskManagment.WEB\\TaskManagment.Client.csproj|c:\\users\\zver\\desktop\\homepetprojects\\ctms\\taskmanagment.web\\layout\\header.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{275ED01B-EEB3-4979-A1EA-8EC13AB72A29}|TaskManagment.WEB\\TaskManagment.Client.csproj|solutionrelative:taskmanagment.web\\layout\\header.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{275ED01B-EEB3-4979-A1EA-8EC13AB72A29}|TaskManagment.WEB\\TaskManagment.Client.csproj|c:\\users\\zver\\desktop\\homepetprojects\\ctms\\taskmanagment.web\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{275ED01B-EEB3-4979-A1EA-8EC13AB72A29}|TaskManagment.WEB\\TaskManagment.Client.csproj|solutionrelative:taskmanagment.web\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{275ED01B-EEB3-4979-A1EA-8EC13AB72A29}|TaskManagment.WEB\\TaskManagment.Client.csproj|c:\\users\\zver\\desktop\\homepetprojects\\ctms\\taskmanagment.web\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{275ED01B-EEB3-4979-A1EA-8EC13AB72A29}|TaskManagment.WEB\\TaskManagment.Client.csproj|solutionrelative:taskmanagment.web\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{275ED01B-EEB3-4979-A1EA-8EC13AB72A29}|TaskManagment.WEB\\TaskManagment.Client.csproj|c:\\users\\zver\\desktop\\homepetprojects\\ctms\\taskmanagment.web\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{275ED01B-EEB3-4979-A1EA-8EC13AB72A29}|TaskManagment.WEB\\TaskManagment.Client.csproj|solutionrelative:taskmanagment.web\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{275ED01B-EEB3-4979-A1EA-8EC13AB72A29}|TaskManagment.WEB\\TaskManagment.Client.csproj|c:\\users\\zver\\desktop\\homepetprojects\\ctms\\taskmanagment.web\\pages\\loginpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{275ED01B-EEB3-4979-A1EA-8EC13AB72A29}|TaskManagment.WEB\\TaskManagment.Client.csproj|solutionrelative:taskmanagment.web\\pages\\loginpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{275ED01B-EEB3-4979-A1EA-8EC13AB72A29}|TaskManagment.WEB\\TaskManagment.Client.csproj|c:\\users\\zver\\desktop\\homepetprojects\\ctms\\taskmanagment.web\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{275ED01B-EEB3-4979-A1EA-8EC13AB72A29}|TaskManagment.WEB\\TaskManagment.Client.csproj|solutionrelative:taskmanagment.web\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{275ED01B-EEB3-4979-A1EA-8EC13AB72A29}|TaskManagment.WEB\\TaskManagment.Client.csproj|c:\\users\\zver\\desktop\\homepetprojects\\ctms\\taskmanagment.web\\pages\\logoutpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{275ED01B-EEB3-4979-A1EA-8EC13AB72A29}|TaskManagment.WEB\\TaskManagment.Client.csproj|solutionrelative:taskmanagment.web\\pages\\logoutpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{275ED01B-EEB3-4979-A1EA-8EC13AB72A29}|TaskManagment.WEB\\TaskManagment.Client.csproj|c:\\users\\zver\\desktop\\homepetprojects\\ctms\\taskmanagment.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{275ED01B-EEB3-4979-A1EA-8EC13AB72A29}|TaskManagment.WEB\\TaskManagment.Client.csproj|solutionrelative:taskmanagment.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A24D35FD-9980-46C4-ACFB-01C9FD13F98D}|TaskManagment.Core\\TaskManagment.Core.csproj|c:\\users\\zver\\desktop\\homepetprojects\\ctms\\taskmanagment.core\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A24D35FD-9980-46C4-ACFB-01C9FD13F98D}|TaskManagment.Core\\TaskManagment.Core.csproj|solutionrelative:taskmanagment.core\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5A9E819-2536-4A2E-A5E0-C60E77E144D7}|TaskManagment.Infrastructure\\TaskManagment.Infrastructure.csproj|c:\\users\\zver\\desktop\\homepetprojects\\ctms\\taskmanagment.infrastructure\\authentication\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5A9E819-2536-4A2E-A5E0-C60E77E144D7}|TaskManagment.Infrastructure\\TaskManagment.Infrastructure.csproj|solutionrelative:taskmanagment.infrastructure\\authentication\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6961B493-9C47-4118-A862-068EBA2BDCE1}|TaskManagment.Applications\\TaskManagment.Applications.csproj|c:\\users\\zver\\desktop\\homepetprojects\\ctms\\taskmanagment.applications\\services\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6961B493-9C47-4118-A862-068EBA2BDCE1}|TaskManagment.Applications\\TaskManagment.Applications.csproj|solutionrelative:taskmanagment.applications\\services\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5A9E819-2536-4A2E-A5E0-C60E77E144D7}|TaskManagment.Infrastructure\\TaskManagment.Infrastructure.csproj|c:\\users\\zver\\desktop\\homepetprojects\\ctms\\taskmanagment.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5A9E819-2536-4A2E-A5E0-C60E77E144D7}|TaskManagment.Infrastructure\\TaskManagment.Infrastructure.csproj|solutionrelative:taskmanagment.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB0319F0-E7D5-4975-A43D-DD75FFC8E5C2}|TaskManagment.API\\TaskManagment.API.csproj|c:\\users\\zver\\desktop\\homepetprojects\\ctms\\taskmanagment.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB0319F0-E7D5-4975-A43D-DD75FFC8E5C2}|TaskManagment.API\\TaskManagment.API.csproj|solutionrelative:taskmanagment.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A24D35FD-9980-46C4-ACFB-01C9FD13F98D}|TaskManagment.Core\\TaskManagment.Core.csproj|c:\\users\\zver\\desktop\\homepetprojects\\ctms\\taskmanagment.core\\entities\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A24D35FD-9980-46C4-ACFB-01C9FD13F98D}|TaskManagment.Core\\TaskManagment.Core.csproj|solutionrelative:taskmanagment.core\\entities\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6961B493-9C47-4118-A862-068EBA2BDCE1}|TaskManagment.Applications\\TaskManagment.Applications.csproj|c:\\users\\zver\\desktop\\homepetprojects\\ctms\\taskmanagment.applications\\taskmanagment.applications.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{6961B493-9C47-4118-A862-068EBA2BDCE1}|TaskManagment.Applications\\TaskManagment.Applications.csproj|solutionrelative:taskmanagment.applications\\taskmanagment.applications.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{FB0319F0-E7D5-4975-A43D-DD75FFC8E5C2}|TaskManagment.API\\TaskManagment.API.csproj|c:\\users\\zver\\desktop\\homepetprojects\\ctms\\taskmanagment.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB0319F0-E7D5-4975-A43D-DD75FFC8E5C2}|TaskManagment.API\\TaskManagment.API.csproj|solutionrelative:taskmanagment.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A5A9E819-2536-4A2E-A5E0-C60E77E144D7}|TaskManagment.Infrastructure\\TaskManagment.Infrastructure.csproj|c:\\users\\zver\\desktop\\homepetprojects\\ctms\\taskmanagment.infrastructure\\configuration\\infrastructureconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A5A9E819-2536-4A2E-A5E0-C60E77E144D7}|TaskManagment.Infrastructure\\TaskManagment.Infrastructure.csproj|solutionrelative:taskmanagment.infrastructure\\configuration\\infrastructureconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A24D35FD-9980-46C4-ACFB-01C9FD13F98D}|TaskManagment.Core\\TaskManagment.Core.csproj|c:\\users\\zver\\desktop\\homepetprojects\\ctms\\taskmanagment.core\\entities\\auth\\regrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A24D35FD-9980-46C4-ACFB-01C9FD13F98D}|TaskManagment.Core\\TaskManagment.Core.csproj|solutionrelative:taskmanagment.core\\entities\\auth\\regrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FB0319F0-E7D5-4975-A43D-DD75FFC8E5C2}|TaskManagment.API\\TaskManagment.API.csproj|c:\\users\\zver\\desktop\\homepetprojects\\ctms\\taskmanagment.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB0319F0-E7D5-4975-A43D-DD75FFC8E5C2}|TaskManagment.API\\TaskManagment.API.csproj|solutionrelative:taskmanagment.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A24D35FD-9980-46C4-ACFB-01C9FD13F98D}|TaskManagment.Core\\TaskManagment.Core.csproj|c:\\users\\zver\\desktop\\homepetprojects\\ctms\\taskmanagment.core\\entities\\auth\\logrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A24D35FD-9980-46C4-ACFB-01C9FD13F98D}|TaskManagment.Core\\TaskManagment.Core.csproj|solutionrelative:taskmanagment.core\\entities\\auth\\logrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{275ED01B-EEB3-4979-A1EA-8EC13AB72A29}|TaskManagment.WEB\\TaskManagment.Client.csproj|c:\\users\\zver\\desktop\\homepetprojects\\ctms\\taskmanagment.web\\pages\\projectspage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{275ED01B-EEB3-4979-A1EA-8EC13AB72A29}|TaskManagment.WEB\\TaskManagment.Client.csproj|solutionrelative:taskmanagment.web\\pages\\projectspage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5A9E819-2536-4A2E-A5E0-C60E77E144D7}|TaskManagment.Infrastructure\\TaskManagment.Infrastructure.csproj|c:\\users\\zver\\desktop\\homepetprojects\\ctms\\taskmanagment.infrastructure\\authentication\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5A9E819-2536-4A2E-A5E0-C60E77E144D7}|TaskManagment.Infrastructure\\TaskManagment.Infrastructure.csproj|solutionrelative:taskmanagment.infrastructure\\authentication\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{275ED01B-EEB3-4979-A1EA-8EC13AB72A29}|TaskManagment.WEB\\TaskManagment.Client.csproj|c:\\users\\zver\\desktop\\homepetprojects\\ctms\\taskmanagment.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{275ED01B-EEB3-4979-A1EA-8EC13AB72A29}|TaskManagment.WEB\\TaskManagment.Client.csproj|solutionrelative:taskmanagment.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{275ED01B-EEB3-4979-A1EA-8EC13AB72A29}|TaskManagment.WEB\\TaskManagment.Client.csproj|c:\\users\\zver\\desktop\\homepetprojects\\ctms\\taskmanagment.web\\taskmanagment.client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{275ED01B-EEB3-4979-A1EA-8EC13AB72A29}|TaskManagment.WEB\\TaskManagment.Client.csproj|solutionrelative:taskmanagment.web\\taskmanagment.client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{A24D35FD-9980-46C4-ACFB-01C9FD13F98D}|TaskManagment.Core\\TaskManagment.Core.csproj|c:\\users\\zver\\desktop\\homepetprojects\\ctms\\taskmanagment.core\\entities\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A24D35FD-9980-46C4-ACFB-01C9FD13F98D}|TaskManagment.Core\\TaskManagment.Core.csproj|solutionrelative:taskmanagment.core\\entities\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB0319F0-E7D5-4975-A43D-DD75FFC8E5C2}|TaskManagment.API\\TaskManagment.API.csproj|c:\\users\\zver\\desktop\\homepetprojects\\ctms\\taskmanagment.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{FB0319F0-E7D5-4975-A43D-DD75FFC8E5C2}|TaskManagment.API\\TaskManagment.API.csproj|solutionrelative:taskmanagment.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB0319F0-E7D5-4975-A43D-DD75FFC8E5C2}|TaskManagment.API\\TaskManagment.API.csproj|c:\\users\\zver\\desktop\\homepetprojects\\ctms\\taskmanagment.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{FB0319F0-E7D5-4975-A43D-DD75FFC8E5C2}|TaskManagment.API\\TaskManagment.API.csproj|solutionrelative:taskmanagment.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{275ED01B-EEB3-4979-A1EA-8EC13AB72A29}|TaskManagment.WEB\\TaskManagment.Client.csproj|c:\\users\\zver\\desktop\\homepetprojects\\ctms\\taskmanagment.web\\pages\\userprofilepage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{275ED01B-EEB3-4979-A1EA-8EC13AB72A29}|TaskManagment.WEB\\TaskManagment.Client.csproj|solutionrelative:taskmanagment.web\\pages\\userprofilepage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A24D35FD-9980-46C4-ACFB-01C9FD13F98D}|TaskManagment.Core\\TaskManagment.Core.csproj|c:\\users\\zver\\desktop\\homepetprojects\\ctms\\taskmanagment.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A24D35FD-9980-46C4-ACFB-01C9FD13F98D}|TaskManagment.Core\\TaskManagment.Core.csproj|solutionrelative:taskmanagment.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5A9E819-2536-4A2E-A5E0-C60E77E144D7}|TaskManagment.Infrastructure\\TaskManagment.Infrastructure.csproj|c:\\users\\zver\\desktop\\homepetprojects\\ctms\\taskmanagment.infrastructure\\data\\configurations\\baseentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5A9E819-2536-4A2E-A5E0-C60E77E144D7}|TaskManagment.Infrastructure\\TaskManagment.Infrastructure.csproj|solutionrelative:taskmanagment.infrastructure\\data\\configurations\\baseentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A24D35FD-9980-46C4-ACFB-01C9FD13F98D}|TaskManagment.Core\\TaskManagment.Core.csproj|c:\\users\\zver\\desktop\\homepetprojects\\ctms\\taskmanagment.core\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A24D35FD-9980-46C4-ACFB-01C9FD13F98D}|TaskManagment.Core\\TaskManagment.Core.csproj|solutionrelative:taskmanagment.core\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A24D35FD-9980-46C4-ACFB-01C9FD13F98D}|TaskManagment.Core\\TaskManagment.Core.csproj|c:\\users\\zver\\desktop\\homepetprojects\\ctms\\taskmanagment.core\\entities\\projectmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A24D35FD-9980-46C4-ACFB-01C9FD13F98D}|TaskManagment.Core\\TaskManagment.Core.csproj|solutionrelative:taskmanagment.core\\entities\\projectmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5A9E819-2536-4A2E-A5E0-C60E77E144D7}|TaskManagment.Infrastructure\\TaskManagment.Infrastructure.csproj|c:\\users\\zver\\desktop\\homepetprojects\\ctms\\taskmanagment.infrastructure\\data\\configurations\\roleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5A9E819-2536-4A2E-A5E0-C60E77E144D7}|TaskManagment.Infrastructure\\TaskManagment.Infrastructure.csproj|solutionrelative:taskmanagment.infrastructure\\data\\configurations\\roleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A24D35FD-9980-46C4-ACFB-01C9FD13F98D}|TaskManagment.Core\\TaskManagment.Core.csproj|c:\\users\\zver\\desktop\\homepetprojects\\ctms\\taskmanagment.core\\enums\\projectrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A24D35FD-9980-46C4-ACFB-01C9FD13F98D}|TaskManagment.Core\\TaskManagment.Core.csproj|solutionrelative:taskmanagment.core\\enums\\projectrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5A9E819-2536-4A2E-A5E0-C60E77E144D7}|TaskManagment.Infrastructure\\TaskManagment.Infrastructure.csproj|c:\\users\\zver\\desktop\\homepetprojects\\ctms\\taskmanagment.infrastructure\\data\\configurations\\projectmemberconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5A9E819-2536-4A2E-A5E0-C60E77E144D7}|TaskManagment.Infrastructure\\TaskManagment.Infrastructure.csproj|solutionrelative:taskmanagment.infrastructure\\data\\configurations\\projectmemberconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5A9E819-2536-4A2E-A5E0-C60E77E144D7}|TaskManagment.Infrastructure\\TaskManagment.Infrastructure.csproj|c:\\users\\zver\\desktop\\homepetprojects\\ctms\\taskmanagment.infrastructure\\data\\configurations\\taskcommentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5A9E819-2536-4A2E-A5E0-C60E77E144D7}|TaskManagment.Infrastructure\\TaskManagment.Infrastructure.csproj|solutionrelative:taskmanagment.infrastructure\\data\\configurations\\taskcommentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5A9E819-2536-4A2E-A5E0-C60E77E144D7}|TaskManagment.Infrastructure\\TaskManagment.Infrastructure.csproj|c:\\users\\zver\\desktop\\homepetprojects\\ctms\\taskmanagment.infrastructure\\data\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5A9E819-2536-4A2E-A5E0-C60E77E144D7}|TaskManagment.Infrastructure\\TaskManagment.Infrastructure.csproj|solutionrelative:taskmanagment.infrastructure\\data\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5A9E819-2536-4A2E-A5E0-C60E77E144D7}|TaskManagment.Infrastructure\\TaskManagment.Infrastructure.csproj|c:\\users\\zver\\desktop\\homepetprojects\\ctms\\taskmanagment.infrastructure\\data\\configurations\\userroleconfigurattion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5A9E819-2536-4A2E-A5E0-C60E77E144D7}|TaskManagment.Infrastructure\\TaskManagment.Infrastructure.csproj|solutionrelative:taskmanagment.infrastructure\\data\\configurations\\userroleconfigurattion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5A9E819-2536-4A2E-A5E0-C60E77E144D7}|TaskManagment.Infrastructure\\TaskManagment.Infrastructure.csproj|c:\\users\\zver\\desktop\\homepetprojects\\ctms\\taskmanagment.infrastructure\\data\\configurations\\worktaskconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5A9E819-2536-4A2E-A5E0-C60E77E144D7}|TaskManagment.Infrastructure\\TaskManagment.Infrastructure.csproj|solutionrelative:taskmanagment.infrastructure\\data\\configurations\\worktaskconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A24D35FD-9980-46C4-ACFB-01C9FD13F98D}|TaskManagment.Core\\TaskManagment.Core.csproj|c:\\users\\zver\\desktop\\homepetprojects\\ctms\\taskmanagment.core\\entities\\taskcomment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A24D35FD-9980-46C4-ACFB-01C9FD13F98D}|TaskManagment.Core\\TaskManagment.Core.csproj|solutionrelative:taskmanagment.core\\entities\\taskcomment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A24D35FD-9980-46C4-ACFB-01C9FD13F98D}|TaskManagment.Core\\TaskManagment.Core.csproj|c:\\users\\zver\\desktop\\homepetprojects\\ctms\\taskmanagment.core\\entities\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A24D35FD-9980-46C4-ACFB-01C9FD13F98D}|TaskManagment.Core\\TaskManagment.Core.csproj|solutionrelative:taskmanagment.core\\entities\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.API\\Configuration\\AuthenticationConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TaskManagment.API\\Configuration\\AuthenticationConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TaskManagment.Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A5A9E819-2536-4A2E-A5E0-C60E77E144D7}|TaskManagment.Infrastructure\\TaskManagment.Infrastructure.csproj|c:\\users\\zver\\desktop\\homepetprojects\\ctms\\taskmanagment.infrastructure\\authentication\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5A9E819-2536-4A2E-A5E0-C60E77E144D7}|TaskManagment.Infrastructure\\TaskManagment.Infrastructure.csproj|solutionrelative:taskmanagment.infrastructure\\authentication\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -206,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -214,609 +58,129 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "TaskController.cs",
-              "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.API\\Controllers\\TaskController.cs",
-              "RelativeDocumentMoniker": "TaskManagment.API\\Controllers\\TaskController.cs",
-              "ToolTip": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.API\\Controllers\\TaskController.cs",
-              "RelativeToolTip": "TaskManagment.API\\Controllers\\TaskController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T21:20:04.612Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "App.razor",
-              "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\App.razor",
-              "RelativeDocumentMoniker": "TaskManagment.WEB\\App.razor",
-              "ToolTip": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\App.razor",
-              "RelativeToolTip": "TaskManagment.WEB\\App.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-25T18:26:25.032Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 0,
               "Title": "MainLayout.razor",
               "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\Layout\\MainLayout.razor",
               "RelativeDocumentMoniker": "TaskManagment.WEB\\Layout\\MainLayout.razor",
               "ToolTip": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\Layout\\MainLayout.razor",
               "RelativeToolTip": "TaskManagment.WEB\\Layout\\MainLayout.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-25T18:27:12.449Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Home.razor",
-              "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\Pages\\Home.razor",
-              "RelativeDocumentMoniker": "TaskManagment.WEB\\Pages\\Home.razor",
-              "ToolTip": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\Pages\\Home.razor",
-              "RelativeToolTip": "TaskManagment.WEB\\Pages\\Home.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-25T18:20:29.974Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "LoginPage.razor",
-              "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\Pages\\LoginPage.razor",
-              "RelativeDocumentMoniker": "TaskManagment.WEB\\Pages\\LoginPage.razor",
-              "ToolTip": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\Pages\\LoginPage.razor",
-              "RelativeToolTip": "TaskManagment.WEB\\Pages\\LoginPage.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-25T18:30:49.857Z",
+              "WhenOpened": "2025-03-31T09:47:18.199Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ProjectsPage.razor",
-              "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\Pages\\ProjectsPage.razor",
-              "RelativeDocumentMoniker": "TaskManagment.WEB\\Pages\\ProjectsPage.razor",
-              "ToolTip": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\Pages\\ProjectsPage.razor",
-              "RelativeToolTip": "TaskManagment.WEB\\Pages\\ProjectsPage.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA0AAAAAAAAAA==",
+              "Title": "LoginPage.razor",
+              "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\Pages\\LoginPage.razor",
+              "RelativeDocumentMoniker": "TaskManagment.WEB\\Pages\\LoginPage.razor",
+              "ToolTip": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\Pages\\LoginPage.razor",
+              "RelativeToolTip": "TaskManagment.WEB\\Pages\\LoginPage.razor",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACQAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-25T18:35:11.666Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.Infrastructure\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "TaskManagment.Infrastructure\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.Infrastructure\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "TaskManagment.Infrastructure\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAQwBYAAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T20:19:19.486Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "WorkTask.cs",
-              "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.Core\\Entities\\WorkTask.cs",
-              "RelativeDocumentMoniker": "TaskManagment.Core\\Entities\\WorkTask.cs",
-              "ToolTip": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.Core\\Entities\\WorkTask.cs",
-              "RelativeToolTip": "TaskManagment.Core\\Entities\\WorkTask.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T20:44:24.502Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ProjectController.cs",
-              "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.API\\Controllers\\ProjectController.cs",
-              "RelativeDocumentMoniker": "TaskManagment.API\\Controllers\\ProjectController.cs",
-              "ToolTip": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.API\\Controllers\\ProjectController.cs",
-              "RelativeToolTip": "TaskManagment.API\\Controllers\\ProjectController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T20:54:40.2Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TasksPage.razor",
-              "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\Pages\\TasksPage.razor",
-              "RelativeDocumentMoniker": "TaskManagment.WEB\\Pages\\TasksPage.razor",
-              "ToolTip": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\Pages\\TasksPage.razor",
-              "RelativeToolTip": "TaskManagment.WEB\\Pages\\TasksPage.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-25T18:28:31.496Z",
+              "WhenOpened": "2025-03-31T09:42:36.087Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "RegisterPage.razor",
-              "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\Pages\\RegisterPage.razor",
-              "RelativeDocumentMoniker": "TaskManagment.WEB\\Pages\\RegisterPage.razor",
-              "ToolTip": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\Pages\\RegisterPage.razor",
-              "RelativeToolTip": "TaskManagment.WEB\\Pages\\RegisterPage.razor",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "LogoutPage.razor",
+              "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\Pages\\LogoutPage.razor",
+              "RelativeDocumentMoniker": "TaskManagment.WEB\\Pages\\LogoutPage.razor",
+              "ToolTip": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\Pages\\LogoutPage.razor",
+              "RelativeToolTip": "TaskManagment.WEB\\Pages\\LogoutPage.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-25T18:30:52.168Z",
+              "WhenOpened": "2025-03-31T09:42:22.511Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\Program.cs",
-              "RelativeDocumentMoniker": "TaskManagment.WEB\\Program.cs",
-              "ToolTip": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\Program.cs",
-              "RelativeToolTip": "TaskManagment.WEB\\Program.cs",
+              "DocumentIndex": 6,
+              "Title": "ProjectsPage.razor",
+              "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\Pages\\ProjectsPage.razor",
+              "RelativeDocumentMoniker": "TaskManagment.WEB\\Pages\\ProjectsPage.razor",
+              "ToolTip": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\Pages\\ProjectsPage.razor",
+              "RelativeToolTip": "TaskManagment.WEB\\Pages\\ProjectsPage.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T15:28:55.907Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Role.cs",
-              "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.Core\\Entities\\Role.cs",
-              "RelativeDocumentMoniker": "TaskManagment.Core\\Entities\\Role.cs",
-              "ToolTip": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.Core\\Entities\\Role.cs",
-              "RelativeToolTip": "TaskManagment.Core\\Entities\\Role.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T20:53:27.85Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.API\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "TaskManagment.API\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.API\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "TaskManagment.API\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T18:07:09.103Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-31T09:23:42.713Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "TaskPriority.cs",
-              "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.Core\\Enums\\TaskPriority.cs",
-              "RelativeDocumentMoniker": "TaskManagment.Core\\Enums\\TaskPriority.cs",
-              "ToolTip": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.Core\\Enums\\TaskPriority.cs",
-              "RelativeToolTip": "TaskManagment.Core\\Enums\\TaskPriority.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\Program.cs",
+              "RelativeDocumentMoniker": "TaskManagment.WEB\\Program.cs",
+              "ToolTip": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\Program.cs",
+              "RelativeToolTip": "TaskManagment.WEB\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T21:00:11.211Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-31T09:05:01.625Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "TaskStatus.cs",
-              "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.Core\\Enums\\TaskStatus.cs",
-              "RelativeDocumentMoniker": "TaskManagment.Core\\Enums\\TaskStatus.cs",
-              "ToolTip": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.Core\\Enums\\TaskStatus.cs",
-              "RelativeToolTip": "TaskManagment.Core\\Enums\\TaskStatus.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T21:00:12.363Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "app.css",
-              "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\wwwroot\\css\\app.css",
-              "RelativeDocumentMoniker": "TaskManagment.WEB\\wwwroot\\css\\app.css",
-              "ToolTip": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\wwwroot\\css\\app.css",
-              "RelativeToolTip": "TaskManagment.WEB\\wwwroot\\css\\app.css",
-              "ViewState": "AgIAAF4AAAAAAAAAAAAAAIAAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-03-26T20:36:55.611Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "_Imports.razor",
-              "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\_Imports.razor",
-              "RelativeDocumentMoniker": "TaskManagment.WEB\\_Imports.razor",
-              "ToolTip": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\_Imports.razor",
-              "RelativeToolTip": "TaskManagment.WEB\\_Imports.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-26T20:48:00.184Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "IJwtService.cs",
-              "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.Applications\\Services\\IJwtService.cs",
-              "RelativeDocumentMoniker": "TaskManagment.Applications\\Services\\IJwtService.cs",
-              "ToolTip": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.Applications\\Services\\IJwtService.cs",
-              "RelativeToolTip": "TaskManagment.Applications\\Services\\IJwtService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T15:18:39.009Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Project.cs",
-              "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.Core\\Entities\\Project.cs",
-              "RelativeDocumentMoniker": "TaskManagment.Core\\Entities\\Project.cs",
-              "ToolTip": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.Core\\Entities\\Project.cs",
-              "RelativeToolTip": "TaskManagment.Core\\Entities\\Project.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T20:58:05.21Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "index.html",
-              "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\wwwroot\\index.html",
-              "RelativeDocumentMoniker": "TaskManagment.WEB\\wwwroot\\index.html",
-              "ToolTip": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\wwwroot\\index.html",
-              "RelativeToolTip": "TaskManagment.WEB\\wwwroot\\index.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-03-26T17:42:45.8Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Header.razor",
-              "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\Layout\\Header.razor",
-              "RelativeDocumentMoniker": "TaskManagment.WEB\\Layout\\Header.razor",
-              "ToolTip": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\Layout\\Header.razor",
-              "RelativeToolTip": "TaskManagment.WEB\\Layout\\Header.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-26T20:31:28.959Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "InfrastructureConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.Infrastructure\\Configuration\\InfrastructureConfiguration.cs",
-              "RelativeDocumentMoniker": "TaskManagment.Infrastructure\\Configuration\\InfrastructureConfiguration.cs",
-              "ToolTip": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.Infrastructure\\Configuration\\InfrastructureConfiguration.cs",
-              "RelativeToolTip": "TaskManagment.Infrastructure\\Configuration\\InfrastructureConfiguration.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T18:46:12.473Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.API\\Program.cs",
               "RelativeDocumentMoniker": "TaskManagment.API\\Program.cs",
               "ToolTip": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.API\\Program.cs",
               "RelativeToolTip": "TaskManagment.API\\Program.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAuwA4AAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAAqwDoAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T20:27:25.42Z"
+              "WhenOpened": "2025-03-31T09:01:18.742Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "JwtTokenService.cs",
-              "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.Infrastructure\\Authentication\\JwtTokenService.cs",
-              "RelativeDocumentMoniker": "TaskManagment.Infrastructure\\Authentication\\JwtTokenService.cs",
-              "ToolTip": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.Infrastructure\\Authentication\\JwtTokenService.cs",
-              "RelativeToolTip": "TaskManagment.Infrastructure\\Authentication\\JwtTokenService.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAiwBkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T18:46:01.953Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "LogRequest.cs",
-              "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.Core\\Entities\\Auth\\LogRequest.cs",
-              "RelativeDocumentMoniker": "TaskManagment.Core\\Entities\\Auth\\LogRequest.cs",
-              "ToolTip": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.Core\\Entities\\Auth\\LogRequest.cs",
-              "RelativeToolTip": "TaskManagment.Core\\Entities\\Auth\\LogRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T15:36:30.232Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "RegRequest.cs",
-              "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.Core\\Entities\\Auth\\RegRequest.cs",
-              "RelativeDocumentMoniker": "TaskManagment.Core\\Entities\\Auth\\RegRequest.cs",
-              "ToolTip": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.Core\\Entities\\Auth\\RegRequest.cs",
-              "RelativeToolTip": "TaskManagment.Core\\Entities\\Auth\\RegRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T15:36:32.976Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 8,
               "Title": "RefreshToken.cs",
               "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.Core\\Entities\\RefreshToken.cs",
               "RelativeDocumentMoniker": "TaskManagment.Core\\Entities\\RefreshToken.cs",
               "ToolTip": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.Core\\Entities\\RefreshToken.cs",
               "RelativeToolTip": "TaskManagment.Core\\Entities\\RefreshToken.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T15:36:46.619Z"
+              "WhenOpened": "2025-03-31T08:42:43.075Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "TaskManagment.Applications.csproj",
-              "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.Applications\\TaskManagment.Applications.csproj",
-              "RelativeDocumentMoniker": "TaskManagment.Applications\\TaskManagment.Applications.csproj",
-              "ToolTip": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.Applications\\TaskManagment.Applications.csproj",
-              "RelativeToolTip": "TaskManagment.Applications\\TaskManagment.Applications.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-26T15:38:22.191Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "JwtSettings.cs",
-              "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.Infrastructure\\Authentication\\JwtSettings.cs",
-              "RelativeDocumentMoniker": "TaskManagment.Infrastructure\\Authentication\\JwtSettings.cs",
-              "ToolTip": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.Infrastructure\\Authentication\\JwtSettings.cs",
-              "RelativeToolTip": "TaskManagment.Infrastructure\\Authentication\\JwtSettings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "JwtTokenService.cs",
+              "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.Infrastructure\\Authentication\\JwtTokenService.cs",
+              "RelativeDocumentMoniker": "TaskManagment.Infrastructure\\Authentication\\JwtTokenService.cs",
+              "ToolTip": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.Infrastructure\\Authentication\\JwtTokenService.cs",
+              "RelativeToolTip": "TaskManagment.Infrastructure\\Authentication\\JwtTokenService.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwDYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T18:46:00.257Z"
+              "WhenOpened": "2025-03-31T08:42:26.291Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.API\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "TaskManagment.API\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.API\\Properties\\launchSettings.json",
-              "RelativeToolTip": "TaskManagment.API\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-26T15:15:48.141Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "TaskManagment.Client.csproj",
-              "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\TaskManagment.Client.csproj",
-              "RelativeDocumentMoniker": "TaskManagment.WEB\\TaskManagment.Client.csproj",
-              "ToolTip": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\TaskManagment.Client.csproj",
-              "RelativeToolTip": "TaskManagment.WEB\\TaskManagment.Client.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-26T15:32:58.714Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.API\\appsettings.json",
-              "RelativeDocumentMoniker": "TaskManagment.API\\appsettings.json",
-              "ToolTip": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.API\\appsettings.json",
-              "RelativeToolTip": "TaskManagment.API\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-19T20:23:33.856Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "UserProfilePage.razor",
-              "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\Pages\\UserProfilePage.razor",
-              "RelativeDocumentMoniker": "TaskManagment.WEB\\Pages\\UserProfilePage.razor",
-              "ToolTip": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.WEB\\Pages\\UserProfilePage.razor",
-              "RelativeToolTip": "TaskManagment.WEB\\Pages\\UserProfilePage.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-25T18:32:50.977Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 47,
-              "Title": "AuthenticationConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.API\\Configuration\\AuthenticationConfiguration.cs",
-              "RelativeDocumentMoniker": "TaskManagment.API\\Configuration\\AuthenticationConfiguration.cs",
-              "ToolTip": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.API\\Configuration\\AuthenticationConfiguration.cs",
-              "RelativeToolTip": "TaskManagment.API\\Configuration\\AuthenticationConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "InfrastructureConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.Infrastructure\\Configuration\\InfrastructureConfiguration.cs",
+              "RelativeDocumentMoniker": "TaskManagment.Infrastructure\\Configuration\\InfrastructureConfiguration.cs",
+              "ToolTip": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.Infrastructure\\Configuration\\InfrastructureConfiguration.cs",
+              "RelativeToolTip": "TaskManagment.Infrastructure\\Configuration\\InfrastructureConfiguration.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAgwEMAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T18:10:09.921Z"
+              "WhenOpened": "2025-03-31T08:42:15.179Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
-              "Title": "ApplicationDbContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "TaskManagment.Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "RelativeToolTip": "TaskManagment.Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "TaskManagment.API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "TaskManagment.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAcwK8AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T18:10:09.926Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "ProjectRole.cs",
-              "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.Core\\Enums\\ProjectRole.cs",
-              "RelativeDocumentMoniker": "TaskManagment.Core\\Enums\\ProjectRole.cs",
-              "ToolTip": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.Core\\Enums\\ProjectRole.cs",
-              "RelativeToolTip": "TaskManagment.Core\\Enums\\ProjectRole.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T21:00:10.259Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "RoleConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.Infrastructure\\Data\\Configurations\\RoleConfiguration.cs",
-              "RelativeDocumentMoniker": "TaskManagment.Infrastructure\\Data\\Configurations\\RoleConfiguration.cs",
-              "ToolTip": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.Infrastructure\\Data\\Configurations\\RoleConfiguration.cs",
-              "RelativeToolTip": "TaskManagment.Infrastructure\\Data\\Configurations\\RoleConfiguration.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAYwC4AAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T20:53:23.058Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.Core\\Entities\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "TaskManagment.Core\\Entities\\BaseEntity.cs",
-              "ToolTip": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.Core\\Entities\\BaseEntity.cs",
-              "RelativeToolTip": "TaskManagment.Core\\Entities\\BaseEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T20:50:07.479Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "ProjectMember.cs",
-              "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.Core\\Entities\\ProjectMember.cs",
-              "RelativeDocumentMoniker": "TaskManagment.Core\\Entities\\ProjectMember.cs",
-              "ToolTip": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.Core\\Entities\\ProjectMember.cs",
-              "RelativeToolTip": "TaskManagment.Core\\Entities\\ProjectMember.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T20:58:03.952Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.Core\\Entities\\User.cs",
-              "RelativeDocumentMoniker": "TaskManagment.Core\\Entities\\User.cs",
-              "ToolTip": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.Core\\Entities\\User.cs",
-              "RelativeToolTip": "TaskManagment.Core\\Entities\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T20:58:01.09Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "BaseEntityConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.Infrastructure\\Data\\Configurations\\BaseEntityConfiguration.cs",
-              "RelativeDocumentMoniker": "TaskManagment.Infrastructure\\Data\\Configurations\\BaseEntityConfiguration.cs",
-              "ToolTip": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.Infrastructure\\Data\\Configurations\\BaseEntityConfiguration.cs",
-              "RelativeToolTip": "TaskManagment.Infrastructure\\Data\\Configurations\\BaseEntityConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T20:16:44.656Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "ProjectMemberConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.Infrastructure\\Data\\Configurations\\ProjectMemberConfiguration.cs",
-              "RelativeDocumentMoniker": "TaskManagment.Infrastructure\\Data\\Configurations\\ProjectMemberConfiguration.cs",
-              "ToolTip": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.Infrastructure\\Data\\Configurations\\ProjectMemberConfiguration.cs",
-              "RelativeToolTip": "TaskManagment.Infrastructure\\Data\\Configurations\\ProjectMemberConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T20:53:03.535Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "TaskCommentConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.Infrastructure\\Data\\Configurations\\TaskCommentConfiguration.cs",
-              "RelativeDocumentMoniker": "TaskManagment.Infrastructure\\Data\\Configurations\\TaskCommentConfiguration.cs",
-              "ToolTip": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.Infrastructure\\Data\\Configurations\\TaskCommentConfiguration.cs",
-              "RelativeToolTip": "TaskManagment.Infrastructure\\Data\\Configurations\\TaskCommentConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T20:57:39.434Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "UserConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.Infrastructure\\Data\\Configurations\\UserConfiguration.cs",
-              "RelativeDocumentMoniker": "TaskManagment.Infrastructure\\Data\\Configurations\\UserConfiguration.cs",
-              "ToolTip": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.Infrastructure\\Data\\Configurations\\UserConfiguration.cs",
-              "RelativeToolTip": "TaskManagment.Infrastructure\\Data\\Configurations\\UserConfiguration.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAkwD8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T20:53:50.386Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 43,
-              "Title": "UserRoleConfigurattion.cs",
-              "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.Infrastructure\\Data\\Configurations\\UserRoleConfigurattion.cs",
-              "RelativeDocumentMoniker": "TaskManagment.Infrastructure\\Data\\Configurations\\UserRoleConfigurattion.cs",
-              "ToolTip": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.Infrastructure\\Data\\Configurations\\UserRoleConfigurattion.cs",
-              "RelativeToolTip": "TaskManagment.Infrastructure\\Data\\Configurations\\UserRoleConfigurattion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T20:57:43.023Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "WorkTaskConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.Infrastructure\\Data\\Configurations\\WorkTaskConfiguration.cs",
-              "RelativeDocumentMoniker": "TaskManagment.Infrastructure\\Data\\Configurations\\WorkTaskConfiguration.cs",
-              "ToolTip": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.Infrastructure\\Data\\Configurations\\WorkTaskConfiguration.cs",
-              "RelativeToolTip": "TaskManagment.Infrastructure\\Data\\Configurations\\WorkTaskConfiguration.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAkwDwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T20:45:13.425Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 45,
-              "Title": "TaskComment.cs",
-              "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.Core\\Entities\\TaskComment.cs",
-              "RelativeDocumentMoniker": "TaskManagment.Core\\Entities\\TaskComment.cs",
-              "ToolTip": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.Core\\Entities\\TaskComment.cs",
-              "RelativeToolTip": "TaskManagment.Core\\Entities\\TaskComment.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T20:58:02.082Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 46,
-              "Title": "UserRole.cs",
-              "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.Core\\Entities\\UserRole.cs",
-              "RelativeDocumentMoniker": "TaskManagment.Core\\Entities\\UserRole.cs",
-              "ToolTip": "C:\\Users\\Zver\\Desktop\\HomePetProjects\\CTMS\\TaskManagment.Core\\Entities\\UserRole.cs",
-              "RelativeToolTip": "TaskManagment.Core\\Entities\\UserRole.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T20:57:59.803Z"
+              "WhenOpened": "2025-03-28T12:32:06.543Z",
+              "EditorCaption": ""
             }
           ]
         }

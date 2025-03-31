@@ -26,20 +26,44 @@ public static class InfrastructureConfiguration
             options.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;
             options.DefaultScheme = JwtBearerDefaults.AuthenticationScheme;
         })
-        .AddJwtBearer(options =>
+.AddJwtBearer(options =>
+{
+    options.TokenValidationParameters = new TokenValidationParameters
+    {
+        ValidateIssuer = true,
+        ValidIssuer = jwtSettings.Issuer,
+        ValidateAudience = true,
+        ValidAudience = jwtSettings.Audience,
+        ValidateLifetime = true,
+        ValidateIssuerSigningKey = true,
+        IssuerSigningKey = new SymmetricSecurityKey(
+            Encoding.UTF8.GetBytes(jwtSettings.Secret)),
+        ClockSkew = TimeSpan.Zero // Без временного люфта
+    };
+
+    // Читаем токен из куки
+    options.Events = new JwtBearerEvents
+    {
+        OnMessageReceived = context =>
         {
-            options.TokenValidationParameters = new TokenValidationParameters
+            if (context.Request.Cookies.ContainsKey("accessToken"))
             {
-                ValidateIssuer = true,
-                ValidIssuer = jwtSettings.Issuer,
-                ValidateAudience = true,
-                ValidAudience = jwtSettings.Audience,
-                ValidateLifetime = true,
-                ValidateIssuerSigningKey = true,
-                IssuerSigningKey = new SymmetricSecurityKey(
-                    Encoding.UTF8.GetBytes(jwtSettings.Secret))
-            };
-        });
+                context.Token = context.Request.Cookies["accessToken"];
+                Console.WriteLine($"📥 Токен передан в JwtBearer: {context.Token}");
+            }
+            else
+            {
+                Console.WriteLine("❌ Токен не найден в куках!");
+            }
+            return Task.CompletedTask;
+        },
+        OnAuthenticationFailed = context =>
+        {
+            Console.WriteLine($"❌ Ошибка аутентификации: {context.Exception.Message}");
+            return Task.CompletedTask;
+        }
+    };
+});
 
         return services;
     }

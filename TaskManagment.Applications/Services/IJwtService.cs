@@ -4,6 +4,6 @@ namespace TaskManagment.Applications.Services;
 
 public interface IJwtService
 {
-    string GenerateAccessToken(IEnumerable<Claim> claims);
-    string GenerateRefreshToken();
+    public string GenerateAccessToken(IEnumerable<Claim> claims);
+    public string GenerateRefreshToken();
 }

@@ -1,10 +1,12 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using System.Security.Claims;
 using TaskManagment.Core.Entities.Auth;
 using TaskManagment.Infrastructure.Data;
 
 namespace TaskManagment.API.Controllers;
+
 
 [ApiController]
 [Route("api/[controller]")]
@@ -17,6 +19,7 @@ public class ProjectController : ControllerBase
         _context = context;
     }
 
+    [Authorize]
     [HttpGet("getProjects")]
     public async Task<IActionResult> GetProject()
     {

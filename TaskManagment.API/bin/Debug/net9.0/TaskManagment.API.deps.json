@@ -12,6 +12,7 @@
           "Microsoft.AspNetCore.Components.WebAssembly.Server": "9.0.3",
           "Microsoft.AspNetCore.OpenApi": "9.0.0",
           "Microsoft.EntityFrameworkCore.Design": "9.0.3",
+          "Scalar.AspNetCore": "2.1.2",
           "TaskManagment.Client": "1.0.0",
           "TaskManagment.Infrastructure": "1.0.0"
         },
@@ -725,6 +726,14 @@
           }
         }
       },
+      "Scalar.AspNetCore/2.1.2": {
+        "runtime": {
+          "lib/net9.0/Scalar.AspNetCore.dll": {
+            "assemblyVersion": "2.1.2.0",
+            "fileVersion": "2.1.2.0"
+          }
+        }
+      },
       "System.CodeDom/6.0.0": {
         "runtime": {
           "lib/net6.0/System.CodeDom.dll": {
@@ -1253,6 +1262,13 @@
       "sha512": "sha512-mw5vcY2IEc7L+IeGrxpp/J5OSnCcjkjAgJYCm/eD52wpZze8zsSifdqV7zXslSMmfJG2iIUGZyo3KuDtEFKwMQ==",
       "path": "npgsql.entityframeworkcore.postgresql/9.0.4",
       "hashPath": "npgsql.entityframeworkcore.postgresql.9.0.4.nupkg.sha512"
+    },
+    "Scalar.AspNetCore/2.1.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6F1xr+isEdUjwQ98MIOQbvVR2ru5YiHEuXDS5DMTAVweSLji9ejWQQJViGOWqB56fH+GktLuDAq2ifZF4gDMHw==",
+      "path": "scalar.aspnetcore/2.1.2",
+      "hashPath": "scalar.aspnetcore.2.1.2.nupkg.sha512"
     },
     "System.CodeDom/6.0.0": {
       "type": "package",
