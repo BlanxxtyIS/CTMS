@@ -17,4 +17,5 @@ public class User: BaseEntity
     public List<Project> OwnedProjects { get; set; } = new List<Project>();
     public List<WorkTask> AssignedTasks { get; set; } = new List<WorkTask >();
     public List<TaskComment> Comments { get; set; } = new List<TaskComment>();
+    public List<RefreshToken> RefreshTokens { get; set; } = new List<RefreshToken>();
 }

@@ -45,6 +45,8 @@ C:\Users\Zver\Desktop\HomePetProjects\CTMS\TaskManagment.WEB\wwwroot\lib\bootstr
 C:\Users\Zver\Desktop\HomePetProjects\CTMS\TaskManagment.WEB\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
 C:\Users\Zver\Desktop\HomePetProjects\CTMS\TaskManagment.WEB\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
 wwwroot\css\app.css
+wwwroot\images\logo.jpg
+wwwroot\images\navbar-bg.jpg
 wwwroot\index.html
 wwwroot\lib\bootstrap\dist\css\bootstrap.css
 wwwroot\lib\bootstrap\dist\css\bootstrap.css.map

@@ -91,6 +91,32 @@ namespace TaskManagment.Infrastructure.Migrations
                     b.ToTable("ProjectMember", (string)null);
                 });
 
+            modelBuilder.Entity("TaskManagment.Core.Entities.RefreshToken", b =>
+                {
+                    b.Property<Guid>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("uuid");
+
+                    b.Property<DateTime>("Expires")
+                        .HasColumnType("timestamp with time zone");
+
+                    b.Property<bool>("IsRevoked")
+                        .HasColumnType("boolean");
+
+                    b.Property<string>("Token")
+                        .IsRequired()
+                        .HasColumnType("text");
+
+                    b.Property<Guid>("UserId")
+                        .HasColumnType("uuid");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("UserId");
+
+                    b.ToTable("RefreshTokens");
+                });
+
             modelBuilder.Entity("TaskManagment.Core.Entities.Role", b =>
                 {
                     b.Property<Guid>("Id")
@@ -338,6 +364,17 @@ namespace TaskManagment.Infrastructure.Migrations
                     b.Navigation("User");
                 });
 
+            modelBuilder.Entity("TaskManagment.Core.Entities.RefreshToken", b =>
+                {
+                    b.HasOne("TaskManagment.Core.Entities.User", "User")
+                        .WithMany("RefreshTokens")
+                        .HasForeignKey("UserId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("User");
+                });
+
             modelBuilder.Entity("TaskManagment.Core.Entities.TaskComment", b =>
                 {
                     b.HasOne("TaskManagment.Core.Entities.User", "Author")
@@ -413,6 +450,8 @@ namespace TaskManagment.Infrastructure.Migrations
                     b.Navigation("Comments");
 
                     b.Navigation("OwnedProjects");
+
+                    b.Navigation("RefreshTokens");
 
                     b.Navigation("UserRoles");
                 });

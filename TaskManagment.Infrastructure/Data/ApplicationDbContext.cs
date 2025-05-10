@@ -16,6 +16,7 @@ public class ApplicationDbContext: DbContext
     public DbSet<ProjectMember> ProjectMembers { get; set; }
     public DbSet<WorkTask> WorkTasks { get; set; }
     public DbSet<TaskComment> TaskComments { get; set; }
+    public DbSet<RefreshToken> RefreshTokens { get; set; }
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {

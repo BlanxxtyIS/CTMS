@@ -1,0 +1,25 @@
+﻿@page "/logout"
+@inject HttpClient Http
+@inject NavigationManager NavTo
+
+<h3>LogoutPage</h3>
+
+<div class="container">
+    <button class="enter" @onclick="HandleLogout">Enter</button>
+</div>
+
+@code {
+    public async Task HandleLogout() {
+        try
+        {
+            var response = Http.GetAsync("api/auth/logout");
+
+            if (response.IsCompletedSuccessfully)
+            {
+                NavTo.NavigateTo("/test");
+            }
+        } catch (Exception ex) {
+            Console.WriteLine($"Ошибка при выходе {ex.Message}");
+        }
+    }
+}

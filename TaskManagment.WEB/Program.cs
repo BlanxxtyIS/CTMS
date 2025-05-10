@@ -7,5 +7,17 @@ builder.RootComponents.Add<App>("#app");
 builder.RootComponents.Add<HeadOutlet>("head::after");
 
 builder.Services.AddScoped(sp => new HttpClient { BaseAddress = new Uri(builder.HostEnvironment.BaseAddress) });
+builder.Services.AddScoped(sp =>
+{
+    var httpClient = new HttpClient
+    {
+        BaseAddress = new Uri("https://localhost:7015")
+    };
 
-await builder.Build().RunAsync();
+    // Указываем, что при запросах будут передаваться куки (JWT)
+    httpClient.DefaultRequestHeaders.Add("credentials", "include");
+
+    return httpClient;
+});
+
+await builder.Build().RunAsync();    

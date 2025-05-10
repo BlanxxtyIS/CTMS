@@ -10,3 +10,7 @@ C:\Users\Zver\Desktop\HomePetProjects\CTMS\TaskManagment.Applications\obj\Debug\
 C:\Users\Zver\Desktop\HomePetProjects\CTMS\TaskManagment.Applications\obj\Debug\net9.0\refint\TaskManagment.Applications.dll
 C:\Users\Zver\Desktop\HomePetProjects\CTMS\TaskManagment.Applications\obj\Debug\net9.0\TaskManagment.Applications.pdb
 C:\Users\Zver\Desktop\HomePetProjects\CTMS\TaskManagment.Applications\obj\Debug\net9.0\ref\TaskManagment.Applications.dll
+C:\Users\Zver\Desktop\HomePetProjects\CTMS\TaskManagment.Applications\bin\Debug\net9.0\TaskManagment.Core.dll
+C:\Users\Zver\Desktop\HomePetProjects\CTMS\TaskManagment.Applications\bin\Debug\net9.0\TaskManagment.Core.pdb
+C:\Users\Zver\Desktop\HomePetProjects\CTMS\TaskManagment.Applications\obj\Debug\net9.0\TaskManagment.Applications.csproj.AssemblyReference.cache
+C:\Users\Zver\Desktop\HomePetProjects\CTMS\TaskManagment.Applications\obj\Debug\net9.0\TaskMana.5992DBF6.Up2Date

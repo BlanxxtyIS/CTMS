@@ -28,6 +28,10 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Zver/Desktop/HomePetProjects/CTMS/TaskManagment.WEB/Layout/Header.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XEhlYWRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Zver/Desktop/HomePetProjects/CTMS/TaskManagment.WEB/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
@@ -36,8 +40,24 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW5QYWdlLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Zver/Desktop/HomePetProjects/CTMS/TaskManagment.WEB/Pages/LogoutPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9nb3V0UGFnZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Zver/Desktop/HomePetProjects/CTMS/TaskManagment.WEB/Pages/ProjectsPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvamVjdHNQYWdlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Zver/Desktop/HomePetProjects/CTMS/TaskManagment.WEB/Pages/RegisterPage.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVnaXN0ZXJQYWdlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Zver/Desktop/HomePetProjects/CTMS/TaskManagment.WEB/Pages/TasksPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGFza3NQYWdlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Zver/Desktop/HomePetProjects/CTMS/TaskManagment.WEB/Pages/UserProfilePage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlclByb2ZpbGVQYWdlLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Zver/Desktop/HomePetProjects/CTMS/TaskManagment.WEB/_Imports.razor]
@@ -47,7 +67,3 @@ build_metadata.AdditionalFiles.CssScope =
 [C:/Users/Zver/Desktop/HomePetProjects/CTMS/TaskManagment.WEB/Layout/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-kdb0yr4w3e
-
-[C:/Users/Zver/Desktop/HomePetProjects/CTMS/TaskManagment.WEB/Layout/NavMenu.razor]
-build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE5hdk1lbnUucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = b-cv8okxjv6l
