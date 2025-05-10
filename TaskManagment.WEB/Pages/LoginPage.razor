@@ -1,0 +1,81 @@
+﻿@page "/login"
+@inject HttpClient Http
+@inject NavigationManager NavTo
+
+<h3>LoginPage</h3>
+
+<div class="container">
+    <div class="card">
+        <a class="login">Log in</a>
+        <div class="inputBox">
+            <input type="text" required="required" @bind="loginOrEmail">
+            <span class="user">Username</span>
+        </div>
+
+        <div class="inputBox">
+            <input type="password" required="required" @bind="password">
+            <span>Password</span>
+        </div>
+
+        <button class="enter" @onclick="HandleLogin">Enter</button>
+
+    </div>
+</div>
+
+@if (!string.IsNullOrEmpty(errorMessage))
+{
+    <div class="error-message">
+        <p>@errorMessage</p>
+    </div>
+}
+
+@code {
+    private string? loginOrEmail;
+    private string? password;
+    private string? errorMessage = "ПОКА НОРМ";
+
+    private async Task HandleLogin()
+    {
+        if (string.IsNullOrEmpty(loginOrEmail) || string.IsNullOrEmpty(password))
+        {
+            errorMessage = "Заполните все поля";
+            return;
+        }
+        var loginRequest = new LogRequest()
+            {
+                Email = loginOrEmail,
+                Password = password
+            };
+        try
+        {
+            var response = await Http.PostAsJsonAsync("api/auth/login", loginRequest);
+
+            if (response.IsSuccessStatusCode)
+            {
+                var result = await response.Content.ReadFromJsonAsync<LoginResponse>();
+                var token = result.Token;
+
+                NavTo.NavigateTo("/test");
+            }
+            else
+            {
+                var errorContent = await response.Content.ReadAsStringAsync();
+                errorMessage = $"Ошибка входа: {response.StatusCode}";
+                if (!string.IsNullOrEmpty(errorContent))
+                {
+                    errorMessage += $" - {errorContent}";
+                }
+            }
+        }
+        catch (Exception ex)
+        {
+            errorMessage = $"Произошла ошибка: {ex.Message}";
+        }
+    }
+    private class LoginResponse
+    {
+        public string Token { get; set; }
+    }
+}
+    
+    
